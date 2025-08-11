@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN: SECOND EDITION**
 
-*Last Updated 2025-07-18*
+*Last Updated 2025-08-11*
 
 **For information about this FAQ, including how to ask questions of your own, see <a href="#page_0">Section 0</a>.** 
 Note there is a changelog in <a href="#page_11">Section 11</a> if you are looking for recent rulings.
@@ -137,6 +137,8 @@ Most of these questions were asked by the community. If you have a question that
 **Section 112.3 (Scenario 54), Special Rules** <span class="hidden">The Gloom treats all Null/x0 cards as +0, not as Null/x0</span>
 
 **Items 129/130** Both Items 129 and 130 are marked as 129. <span class="hidden">Of these, the Helm of the Mountain is correctly numbered as 129; the Mountain Hammer should be item 130.</span>
+
+**Solo Scenarios, Saw** - "The City Guards do not perform turns as normal." is missing from the special rules.
 
 ![divider](/assets/images/divider.png)
 
@@ -451,7 +453,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **Why are some scenario markers in grey and some in green?** Gray markers either indicate information that's only needed on scenario setup, or markers that exceed the component limit. All are considered to share the same marker.
 
-**How much scenario information are we allowed to look at while trying to decide which one to go to next? Can I look at the monsters, etc. before picking in order to get PQ progress?** You can look at anything on the main page(s) of the scenario - including layout, complexity, monster list, presence of treasure tiles, etc. - but not any section links. 
+**How much scenario information are we allowed to look at while trying to decide which one to go to next? Can I look at the monsters, etc. before picking in order to get PQ progress?** You can look at anything on the main page(s) of the scenario - including layout, complexity, monster list, presence of treasure tiles, etc. - but not any section links.
 
 **If there is a calculation, but no indication of the direction of rounding, what direction do you round?** Usually a calculation will tell you the intended direction of rounding. If it does not, assume it rounds up.
 
@@ -489,7 +491,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **Do I need to kill enemies that have not yet spawned in order to beat this solo scenario?** Many solo scenarios have a win condition of "when all enemies in it are dead" along with set spawns for specific rounds. Spawns that haven't appeared yet are still considered part of the scenario, and must be defeated.
 
-**Can I level up, purchase items, or purchase enhancements after my solo scenario is complete?** These activities need to wait until the next campaign Downtime phase, whenever that happens over the normal course of play. Solo scenarios take place outside of the normal Scenario/City flow, and those activities are limited to Downtime.
+**Saw Solo Scenario Errata** - "The City Guards do not perform turns as normal." is missing from the special rules.
 
 ![divider](/assets/images/divider.png)
 
@@ -959,6 +961,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2025-07-09 - Added note that there's two times you might be instructed to add C-51 to the event deck.
 - 2025-07-17 - Major errata for event unlocks when characters were unlocked, plus C-57.
 - 2025-07-18 - Campaign sheet link added
+- 2025-08-11 - Saw solo scenario errata
 
 
 <script>
