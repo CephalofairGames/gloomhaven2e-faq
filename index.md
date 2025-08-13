@@ -1,8 +1,8 @@
 <link rel="stylesheet" href="override-markdown-styles.css"/>
 
-# **OFFICIAL FAQ FOR GLOOMHAVEN: SECOND EDITION**
+# **OFFICIAL FAQ FOR GLOOMHAVEN: SECOND EDITION (2025)**
 
-*Last Updated 2025-08-11*
+*Last Updated 2025-08-13*
 
 **For information about this FAQ, including how to ask questions of your own, see <a href="#page_0">Section 0</a>.** 
 Note there is a changelog in <a href="#page_11">Section 11</a> if you are looking for recent rulings.
@@ -179,6 +179,8 @@ Most of these questions were asked by the community. If you have a question that
 **If I abandon a character or PQ in the middle of a PQ that unlocks scenarios, what happens to the scenarios?** They all become Incomplete and are re-locked. Any opened chests remain looted.
 
 **Personal Quest 05, Seeker of Xorn** <span class="hidden">If Safeguard or another condition blocks you from gaining Poison, it does not advance the quest.</span>
+
+**Personal Quest 07, A Tale to Tell** <span class="hidden">1. "Witness" means "participate in a scenario where..." even if you exhaust or are out of line of sight. 2. This includes goal treasure tiles. 3. These must be from 10 different scenarios.</span>
 
 **Personal Quest 17, Living on the Edge** The conclusion section (47.4) mistakenly has the Two Minis icon instead of the Lightning Bolts icon. The Lightning Bolts icon on the PQ card is correct.
 
@@ -962,6 +964,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2025-07-17 - Major errata for event unlocks when characters were unlocked, plus C-57.
 - 2025-07-18 - Campaign sheet link added
 - 2025-08-11 - Saw solo scenario errata
+- 2025-08-13 - PQ07
 
 
 <script>
