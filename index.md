@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN: SECOND EDITION (2025)**
 
-*Last Updated 2025-08-13*
+*Last Updated 2025-08-15*
 
 **For information about this FAQ, including how to ask questions of your own, see <a href="#page_0">Section 0</a>.** 
 Note there is a changelog in <a href="#page_11">Section 11</a> if you are looking for recent rulings.
@@ -178,9 +178,17 @@ Most of these questions were asked by the community. If you have a question that
 
 **If I abandon a character or PQ in the middle of a PQ that unlocks scenarios, what happens to the scenarios?** They all become Incomplete and are re-locked. Any opened chests remain looted.
 
+**Personal Quest 01, Conclusion section 133.4** <span class="hidden">In addition to not adding the events for this PQ's completion, also skip your class's normal retirement section for narrative consistency.</span>
+
+**Personal Quest 02, Conclusion section 125.4** <span class="hidden">In addition to not adding the events for this PQ's completion, also skip your class's normal retirement section for narrative consistency.</span>
+
 **Personal Quest 05, Seeker of Xorn** <span class="hidden">If Safeguard or another condition blocks you from gaining Poison, it does not advance the quest.</span>
 
+**Personal Quest 05, Conclusion section 121.2** <span class="hidden">In addition to not adding the events for this PQ's completion, also skip your class's normal retirement section for narrative consistency.</span>
+
 **Personal Quest 07, A Tale to Tell** <span class="hidden">1. "Witness" means "participate in a scenario where..." even if you exhaust or are out of line of sight. 2. This includes goal treasure tiles. 3. These must be from 10 different scenarios.</span>
+
+**Personal Quest 15, Conclusion section 128.2** <span class="hidden">In addition to not adding the events for this PQ's completion, also skip your class's normal retirement section for narrative consistency.</span>
 
 **Personal Quest 17, Living on the Edge** The conclusion section (47.4) mistakenly has the Two Minis icon instead of the Lightning Bolts icon. The Lightning Bolts icon on the PQ card is correct.
 
@@ -657,6 +665,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>How does Teleport interact with Tears?</b> You don't move through any intervening hexes with a Teleport. If you want to use a Tear while teleporting, you must end the Teleport in the Tear to lose Invisbile.</p>
 
+<p><b>Enemies treat my hex as unoccupied - can they place a trap on my hex?</b> Enemies treat your hex as unoccupied only for purposes of movement and teleport. They still cannot (for example) place a trap in your hex.</p>
+
 <p><b>Prepare for the Kill (3, top)</b> (1) The 'whenever' clause just lets this card persist until it triggers. It is discarded when it triggers. (2) The tear is removed immediately when you enter its hex, so this will interrupt your movement to gain Strengthen and damage the adjacent enemies. You may continue the move afterwards.</p>
 
 
@@ -965,6 +975,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2025-07-18 - Campaign sheet link added
 - 2025-08-11 - Saw solo scenario errata
 - 2025-08-13 - PQ07
+- 2025-08-15 - Eclipse clarification on "unoccupied", "Deluxe" PQ conclusion clarifications
 
 
 <script>
