@@ -178,17 +178,17 @@ Most of these questions were asked by the community. If you have a question that
 
 **If I abandon a character or PQ in the middle of a PQ that unlocks scenarios, what happens to the scenarios?** They all become Incomplete and are re-locked. Any opened chests remain looted.
 
-**Personal Quest 01, Conclusion section 133.4** <span class="hidden">In addition to not adding the events for this PQ's completion, also skip your class's normal retirement section for narrative consistency.</span>
+**Personal Quest 01, Conclusion section 133.4** <span class="hidden">When this PQ is completed do not read your class' normal retirement section at all (this also means you will not add the corresponding class retirement events). You will instead add events related to this PQ.</span>
 
-**Personal Quest 02, Conclusion section 125.4** <span class="hidden">In addition to not adding the events for this PQ's completion, also skip your class's normal retirement section for narrative consistency.</span>
+**Personal Quest 02, Conclusion section 125.4** <span class="hidden">When this PQ is completed do not read your class' normal retirement section at all (this also means you will not add the corresponding class retirement events). You will instead add events related to this PQ.</span>
 
 **Personal Quest 05, Seeker of Xorn** <span class="hidden">If Safeguard or another condition blocks you from gaining Poison, it does not advance the quest.</span>
 
-**Personal Quest 05, Conclusion section 121.2** <span class="hidden">In addition to not adding the events for this PQ's completion, also skip your class's normal retirement section for narrative consistency.</span>
+**Personal Quest 05, Conclusion section 121.2** <span class="hidden">When this PQ is completed do not read your class' normal retirement section at all (this also means you will not add the corresponding class retirement events). You will instead add events related to this PQ.</span>
 
 **Personal Quest 07, A Tale to Tell** <span class="hidden">1. "Witness" means "participate in a scenario where..." even if you exhaust or are out of line of sight. 2. This includes goal treasure tiles. 3. These must be from 10 different scenarios.</span>
 
-**Personal Quest 15, Conclusion section 128.2** <span class="hidden">In addition to not adding the events for this PQ's completion, also skip your class's normal retirement section for narrative consistency.</span>
+**Personal Quest 15, Conclusion section 128.2** <span class="hidden">When this PQ is completed do not read your class' normal retirement section at all (this also means you will not add the corresponding class retirement events). You will instead add events related to this PQ.</span>
 
 **Personal Quest 17, Living on the Edge** The conclusion section (47.4) mistakenly has the Two Minis icon instead of the Lightning Bolts icon. The Lightning Bolts icon on the PQ card is correct.
 
