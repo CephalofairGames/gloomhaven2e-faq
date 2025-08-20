@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN: SECOND EDITION (2025)**
 
-*Last Updated 2025-08-15*
+*Last Updated 2025-08-20*
 
 **For information about this FAQ, including how to ask questions of your own, see <a href="#page_0">Section 0</a>.** 
 Note there is a changelog in <a href="#page_11">Section 11</a> if you are looking for recent rulings.
@@ -177,6 +177,8 @@ Most of these questions were asked by the community. If you have a question that
 **If, during a City Phase, I no longer qualify for retirement (for example, if I had a quest to collect gold but spent below the threshold), do I still retire?** No. If you no longer meet the requirements for your PQ, you no longer retire.
 
 **If I abandon a character or PQ in the middle of a PQ that unlocks scenarios, what happens to the scenarios?** They all become Incomplete and are re-locked. Any opened chests remain looted.
+
+**Personal Quest 01, Political Intrigue** <span class="hidden">If you gain reputation from two or more factions simultaneously from one source - whether event, section, or scenario - you still only gain 3 votes.</span>
 
 **Personal Quest 01, Conclusion section 133.4** <span class="hidden">When this PQ is completed do not read your class' normal retirement section at all (this also means you will not add the corresponding class retirement events). You will instead add events related to this PQ.</span>
 
@@ -976,6 +978,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2025-08-11 - Saw solo scenario errata
 - 2025-08-13 - PQ07
 - 2025-08-15 - Eclipse clarification on "unoccupied", "Deluxe" PQ conclusion clarifications
+- 2025-08-20 - Clarification on PQ 01
 
 
 <script>
