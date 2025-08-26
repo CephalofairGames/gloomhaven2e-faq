@@ -172,7 +172,7 @@ Most of these questions were asked by the community. If you have a question that
 
 ### <a name="page_32" class="page-number">3.2</a> Personal Quests
 
-**My Personal Quest gives me a scenario and says to 'follow it to its conclusion.' What does that mean? Do I retire after the scenario?** You keep going until the game explicitly tells you that your quest is complete in a Scenario Rewards box.
+**My Personal Quest has me read a section when I have completed its tasks. Do I retire before reading the section?** No. All PQs have section reads once they are complete. These sections will either tell you that you're retiring (usually during the next city phase) or that you've unlocked something - generally a scenario or scenario chain. *You don't retire until the Section Book directly tells you that you will (or have) retired.*
 
 **If, during a City Phase, I no longer qualify for retirement (for example, if I had a quest to collect gold but spent below the threshold), do I still retire?** No. If you no longer meet the requirements for your PQ, you no longer retire.
 
@@ -981,7 +981,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2025-08-13 - PQ07
 - 2025-08-15 - Eclipse clarification on "unoccupied", "Deluxe" PQ conclusion clarifications
 - 2025-08-20 - Clarification on PQ 01
-- 2025-08-26 - Clarified Silent Knife (9) and Tinkerer (1) Potent Potables
+- 2025-08-26 - Clarified Silent Knife (9) and Tinkerer (1) Potent Potables, Retirement clarification under PQs
 
 
 <script>
