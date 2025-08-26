@@ -555,7 +555,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **Practiced Reflexes (1, bot) - Can I end this move ability on a trap?** Yes. Traps are sprung when you enter the hex. Because you didn't spring it then, it will not spring unless you exit and re-enter the trapped hex.
 
-**Hired Help (9, top) - If I duplicate a monster who can Summon, such as a Cultist or an Ooze, do I also control their summons?** No. In all cases for all classes, when you are controlling a monster, you don’t control their summons. Their summons will be enemies to you (and to them).
+**Hired Help (9, top) - If I put my token on a monster who can Summon, such as a Cultist or an Ooze, do I also control their summons?** No. In all cases for all classes, when you are controlling a monster, you don’t control their summons. Their summons will be enemies to you (and to them).
 
 ![divider-narrow](/assets/images/divider2.png)
 
