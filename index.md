@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN: SECOND EDITION (2025)**
 
-*Last Updated 2025-08-20*
+*Last Updated 2025-08-26*
 
 **For information about this FAQ, including how to ask questions of your own, see <a href="#page_0">Section 0</a>.** 
 Note there is a changelog in <a href="#page_11">Section 11</a> if you are looking for recent rulings.
@@ -525,6 +525,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 - An effect which says "Adjacent allies gain Shield 1," applies to allies who are adjacent to you, but is not kept when they move away. By the same token, an ally moving into range of the effect can gain it even if they weren't there when the ability was played. Colloquially, these are sometimes called "auras" by the community. Example: Tinkerer 1, Enhancement Field (bottom), "You and all adjacent allies add +1 to all attacks this round."
 - An effect which says "Grant all adjacent allies Shield 1" means they can immediately perform a Shield 1 (Self) ability (if able), and it lasts until the card is lost or discarded, even if they move away from you this round. Example: Tinkerer 1, Flamethrower (bottom): "Grant all adjacent allies and self: Shield 1
 
+**Potent Potables (1, bot) - How does this interact with self-only heals, like my Heal 2 from a Long Rest, or a Healing Potion?** It doesn't; those won't add targets, and won't move the use slot tracker.
+
 **Reinvigorating Elixir (1, bot) - What happens if an ally is Long Resting when I use this?** They recover all their cards, but do not lose one during their Long Rest, unless they have active non-loss persistent bonuses (which count as cards eligible to be lost during a Long Rest).
 
 **Disintegration Beam (5, top) - Will this work on Objectives?** No; Objectives can only be destroyed, not killed.
@@ -555,7 +557,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **Practiced Reflexes (1, bot) - Can I end this move ability on a trap?** Yes. Traps are sprung when you enter the hex. Because you didn't spring it then, it will not spring unless you exit and re-enter the trapped hex.
 
-**Hired Help (9, top) - If I put my token on a monster who can Summon, such as a Cultist or an Ooze, do I also control their summons?** No. In all cases for all classes, when you are controlling a monster, you don’t control their summons. Their summons will be enemies to you (and to them).
+**Hired Help (9, top) - If I put my token on a monster who can Summon, such as a Cultist or an Ooze, do I also control their summons?** No. In all cases for all classes, when you are controlling a monster, you don’t control their summons. Their summons will be enemies to you (and to them). **What modifier deck will they use?** They will use the Ally deck in all cases.
 
 ![divider-narrow](/assets/images/divider2.png)
 
@@ -979,6 +981,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2025-08-13 - PQ07
 - 2025-08-15 - Eclipse clarification on "unoccupied", "Deluxe" PQ conclusion clarifications
 - 2025-08-20 - Clarification on PQ 01
+- 2025-08-26 - Clarified Silent Knife (9) and Tinkerer (1) Potent Potables
 
 
 <script>
