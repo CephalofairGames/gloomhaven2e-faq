@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN: SECOND EDITION (2025)**
 
-*Last Updated 2025-08-26*
+*Last Updated 2025-08-28*
 
 **For information about this FAQ, including how to ask questions of your own, see <a href="#page_0">Section 0</a>.** 
 Note there is a changelog in <a href="#page_11">Section 11</a> if you are looking for recent rulings.
@@ -517,6 +517,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **Immovable Phalanx (6, bot) - Can I use an item like Boots to enhance my Move ability before turning it into an Attack ability?** No. You need to decide to use a Move ability as an Attack ability before performing the ability; you can't improve an ability you never performed. You can, however, use items which improve attacks once you do so.
 
+**Patch Armor (two-check Loot perk) - What is the icon? It isn't defined in the rulebook.** This is an older "Recover" icon from the original Gloomhaven. This perk allows you to recover either a spent or lost chest slot item.
+
 ![divider-narrow](/assets/images/divider2.png)
 
 ### ![Tinkerer Icon](/assets/images/02_tinkerer.png) <a name="page_802" class="page-number">8.2</a> Tinkerer
@@ -982,6 +984,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2025-08-15 - Eclipse clarification on "unoccupied", "Deluxe" PQ conclusion clarifications
 - 2025-08-20 - Clarification on PQ 01
 - 2025-08-26 - Clarified Silent Knife (9) and Tinkerer (1) Potent Potables, Retirement clarification under PQs
+- 2025-08-28 - Added note for Bruiser non-amd icon
 
 
 <script>
