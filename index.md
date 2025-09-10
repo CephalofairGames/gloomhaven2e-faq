@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN: SECOND EDITION (2025)**
 
-*Last Updated 2025-08-28*
+*Last Updated 2025-09-10*
 
 **For information about this FAQ, including how to ask questions of your own, see <a href="#page_0">Section 0</a>.** 
 Note there is a changelog in <a href="#page_11">Section 11</a> if you are looking for recent rulings.
@@ -561,6 +561,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **Hired Help (9, top) - If I put my token on a monster who can Summon, such as a Cultist or an Ooze, do I also control their summons?** No. In all cases for all classes, when you are controlling a monster, you don’t control their summons. Their summons will be enemies to you (and to them). **What modifier deck will they use?** They will use the Ally deck in all cases.
 
+**How do I count coin tokens I place back onto the battlefield for my Loot mastery?** They do not reduce your total from the scenario. If you loot them again, they will count a second time.
+
 ![divider-narrow](/assets/images/divider2.png)
 
 ### ![Cragheart Icon](/assets/images/05_cragheart.png) <a name="page_805" class="page-number">8.5</a> Cragheart
@@ -576,6 +578,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 **Mud Eruption (2, top) - Can I create an obstacle tile in the same hex as a flying enemy, if I did not push them?** No; obstacles may not be placed in occupied hexes.
 
 **Sentient Growth (2, top) - Can I use this just to heal allies without attacking?** No; a red hex attack ability must be performed, in order to perform any subsequent abilities referencing the attack pattern.
+
+**Clear the Way (3, top) - Can I just use this to relocate an obstacle, without making an attack?** Yes, if you relocate it to a hex that is not adjacent to any enemies. However, if you move the obstacle adjacent to one or more enemies, you must attack one or more of them due to the 'voluntary ability' rule in GH2e.
 
 **Brutal Momentum (7, bot) - Do I get both the Move 3 and the attack bonus at the start of my next four turns, or just the move?** You get both at the start of your next four turns.
 
@@ -601,6 +605,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <summary><b>Sun Spoilers</b></summary>
 
 <p>(Repeated from Section 5.2) <b>How does Shield interact with Ward?</b> Shield reduces damage before Ward is applied. If I have Shield 2 and Ward and take 6 damage, the damage is first reduced to 4 by Shield, then cut in half to 2 by Ward.</p>
+
+<p><b>How do Beacon of Light (X, top) and Lay on Hands (1, top) interact?</b> X will vary for every target of the heal, based on their own maximum hit point value.</p>
 
 <p><b>Path of Glory (5, bot) - Can I Strengthen and Bless allies who are no longer in my Line of Sight after my Move?</b> No; the Strengthen, Bless is a separate ability performed after the Move is complete.</p>
 
@@ -772,7 +778,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>Predator and Prey (9, top) - Does the Great Archinotl get a 100-initiative extra turn in the round it's summoned?</b> No; summons don't get turns during the round in which they are summoned, including extra turns.</p>
 
-<p><b>What's the timing of the extra Attack 2 I gain from my "-1, Attack 2 Range 5" modifier cards?</b> These attacks are performed immediately after the attack in which you draw them, and after any retaliate you may suffer from it. They are considered "added effects" and are thus part of the attack ability you were already performing. Because of this, they will retain any bonuses (or penalties) you had for that attack ability (but not any bonuses or penalties you just had for one attack). Even though it's part of the same attack ability, you can attack enemies that were (or will be) targeted by the attack ability.</p>
+<p><b>What's the timing of the extra Attack 2 I gain from my "-1, Attack 2 Range 5" modifier cards?</b> These attacks are performed immediately after the attack in which you draw them, and after any retaliate you may suffer from it. They are considered separate attack abilities, and therefore will not benefit from any bonuses that would only apply to one attack ability. <i>Note - this ruling was corrected 9/10/2025</i></p>
 
 </details>
 <br>
@@ -985,6 +991,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2025-08-20 - Clarification on PQ 01
 - 2025-08-26 - Clarified Silent Knife (9) and Tinkerer (1) Potent Potables, Retirement clarification under PQs
 - 2025-08-28 - Added note for Bruiser non-amd icon
+- 2025-09-10 - Overturned previous Angry Face ruling on timing for an attack modifier. Added Cragheart Clear the Way and Sun 1/X rulings.
 
 
 <script>
