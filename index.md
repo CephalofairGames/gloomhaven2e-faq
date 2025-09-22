@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN: SECOND EDITION (2025)**
 
-*Last Updated 2025-09-10*
+*Last Updated 2025-09-22*
 
 **For information about this FAQ, including how to ask questions of your own, see <a href="#page_0">Section 0</a>.** 
 Note there is a changelog in <a href="#page_11">Section 11</a> if you are looking for recent rulings.
@@ -533,6 +533,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **Disintegration Beam (5, top) - Will this work on Objectives?** No; Objectives can only be destroyed, not killed.
 
+**Chimeric Formula (9, top) - If I add more targets to this Heal ability (for example, with Potent Potables), will the added target also get to play extra cards?** Yes; both targets can play up to two cards from their hand, in whichever order you prefer. **If I target a Summon or a scenario ally with this Heal ability, what happens?** They don't have a hand of cards, so cannot benefit from the second ability.
+
 **I have a question about Chimeric Formula (9, bot)...** It is impossible for this FAQ to encompass all the potential interactions with this card. Your group is empowered to interpret ambiguity for your own table. If you are not confident in your group's capability to fairly interpret potentially contradictory rules, I would recommend only using this on simpler cards.
 
 **For my Alchemical Duplication perk, can I share a potion that has already been consumed?** No; you must still have the potion available for your ally to use it.
@@ -727,7 +729,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>Defiance of Death (1, top), Strength in Agony (1, top), etc. - If I use an item to increase my number of targets, do I need to take extra damage?</b> No; just like with element consumption, the benefits for spending health will apply to all attacks made in the attack ability.</p>
 
-<p><b>Glass Hammer (X, top) - If I have a way to add targets to this attack, do I get more XP?</b> No; it says "an" enemy. You only get the XP for one enemy, but you can pick whichever one you wish.</p>
+<p><b>Glass Hammer (X, top) - If I have a way to add targets to this attack, do I get more XP?</b> Yes. <i>(note - previous "no" ruling was overturned 9/22/25 to make it consistent with other, similar rulings.)</i></p>
 
 <p><b>Flurry of Axes (6, top) - Can I use range-increasing items on this action?</b> No; this is not a ranged attack, and has no range value.</p>
 
@@ -761,6 +763,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>Symphonic Medley (3, bot) - Do these Song actions still clear all the Notes on my board?</b> Yes. Each Song played via this ability also clears all the Notes on your board.</p> 
 
+<p><b>Pull the Strings (6, top) - If I add another target to this effect, will they also perform a controlled move?</b> Yes.</p> 
 
 </details>
 <br>
@@ -992,6 +995,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2025-08-26 - Clarified Silent Knife (9) and Tinkerer (1) Potent Potables, Retirement clarification under PQs
 - 2025-08-28 - Added note for Bruiser non-amd icon
 - 2025-09-10 - Overturned previous Angry Face ruling on timing for an attack modifier. Added Cragheart Clear the Way and Sun 1/X rulings.
+- 2025-09-22 - Chimeric Formula (top) ruling. Cascaded into Note ruling, plus overturning a previous Lightning Bolts ruling.
 
 
 <script>
