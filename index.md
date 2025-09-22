@@ -533,7 +533,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **Disintegration Beam (5, top) - Will this work on Objectives?** No; Objectives can only be destroyed, not killed.
 
-**Chimeric Formula (9, top) - If I add more targets to this Heal ability (for example, with Potent Potables), will the added target also get to play extra cards?** Yes; both targets can play up to two cards from their hand, in whichever order you prefer. **If I target a Summon or a scenario ally with this Heal ability, what happens?** They don't have a hand of cards, so cannot benefit from the second ability.
+**Chimeric Formula (9, top) - If I add more targets to this Heal ability (for example, with Potent Potables), will the added target also get to play extra cards?** Yes; both targets can play up to two cards from their hand, in the order they were targeted by the Heal ability. **If I target a Summon or a scenario ally with this Heal ability, what happens?** They don't have a hand of cards, so cannot benefit from the second ability.
 
 **I have a question about Chimeric Formula (9, bot)...** It is impossible for this FAQ to encompass all the potential interactions with this card. Your group is empowered to interpret ambiguity for your own table. If you are not confident in your group's capability to fairly interpret potentially contradictory rules, I would recommend only using this on simpler cards.
 
@@ -564,6 +564,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 **Hired Help (9, top) - If I put my token on a monster who can Summon, such as a Cultist or an Ooze, do I also control their summons?** No. In all cases for all classes, when you are controlling a monster, you don’t control their summons. Their summons will be enemies to you (and to them). **What modifier deck will they use?** They will use the Ally deck in all cases.
 
 **How do I count coin tokens I place back onto the battlefield for my Loot mastery?** They do not reduce your total from the scenario. If you loot them again, they will count a second time.
+
+**Watch it Burn (9, bot) - Can I play this on a turn in which I long rest?** Yes; the parenthetical text about 'two cards you played' is a rules reminder, not a limitation.
 
 ![divider-narrow](/assets/images/divider2.png)
 
@@ -995,7 +997,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2025-08-26 - Clarified Silent Knife (9) and Tinkerer (1) Potent Potables, Retirement clarification under PQs
 - 2025-08-28 - Added note for Bruiser non-amd icon
 - 2025-09-10 - Overturned previous Angry Face ruling on timing for an attack modifier. Added Cragheart Clear the Way and Sun 1/X rulings.
-- 2025-09-22 - Chimeric Formula (top) ruling. Cascaded into Note ruling, plus overturning a previous Lightning Bolts ruling.
+- 2025-09-22 - Chimeric Formula (top) ruling. Cascaded into Note ruling, plus overturning a previous Lightning Bolts ruling. Silent Knife 9 ruling.
 
 
 <script>
