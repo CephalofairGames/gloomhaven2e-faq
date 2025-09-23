@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN: SECOND EDITION (2025)**
 
-*Last Updated 2025-09-22*
+*Last Updated 2025-09-23*
 
 **For information about this FAQ, including how to ask questions of your own, see <a href="#page_0">Section 0</a>.** 
 Note there is a changelog in <a href="#page_11">Section 11</a> if you are looking for recent rulings.
@@ -706,6 +706,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>Can I apply Plague to an enemy Objective?</b> Yes - Plague is not considered a condition.</p>
 
+<p><b>Nightmarish Affliction (3, bot) - How many times do I need to poison allies if I use this in combination with Delirium's Danse (X)?</b> Either two or three, depending on your preferred timing. If you add Stun to the top of Danse first, it's two total poisoned allies. If it's after, you'd need to poison two allies.</p>
+
 <p><b>Do I need Line of Sight for a Plague ability?</b> Sometimes. For an ability like Path of Pox (1, bot), you would not. Plague is not a condition, and applying it is not a targeted ability. You can perform standalone Plagues to targets out of line of sight, or even without targets at all. On the other hand, an action like Festering Sores (1, top) has both Wound and Plague - applying Wound is a Condition ability, and therefore the whole ability is targeted. (Note that in Gloomhaven: Second Edition, you can't pick and choose parts of an Ability to perform; you either perform all of it or none of it, per rulebook pg 35.)</p>
 
 <p><b>I have questions about the two check perk, Xorn's Propogation...</b></p> 
@@ -916,6 +918,8 @@ Items are listed by their item number.
 
 **Item 018** <span class="hidden"><b>Heavy Basinet - </b> Note that this does not allow you to prevent self-inflicted conditions; it's only those applied by enemies.</span>
 
+**Item 116 - How is this item unlocked?** You've unlocked it now, by reading this FAQ entry! The item was unlocked for all players via a Backerkit update on Sept 23, 2025. **Can I use the front side of this item if I already have disadvantage on an attack?** No; you cannot gain multiple instances of advantage or disadvantage on one attack, so cannot pay the "cost" to flip it. **Can I use the front of this item on an attack an ally grants to me?** Yes, but the item will not flip over until the end of your next turn, per its flip instructions.
+
 **Item 133** <span class="hidden"><b>Heart of the Betrayer - What does this item do?</b> Basically, instead of being attacked by the enemy, you can make them perform an Attack -1 on one of your other enemies. This can just be used to negate an attack, if that enemy is unable to make an attack, or if you don't want them to make an attack.</span>
 
 **Item 136** <span class="hidden"><b>Flea-Bitten Shawl</b> - Note that this item does not affect your summons. If there are multiple 'last in initiative order' effects in play, they are ambiguous with one another, and you can decide which is considered 'really last' when it's important.</span>
@@ -998,6 +1002,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2025-08-28 - Added note for Bruiser non-amd icon
 - 2025-09-10 - Overturned previous Angry Face ruling on timing for an attack modifier. Added Cragheart Clear the Way and Sun 1/X rulings.
 - 2025-09-22 - Chimeric Formula (top) ruling. Cascaded into Note ruling, plus overturning a previous Lightning Bolts ruling. Silent Knife 9 ruling.
+- 2025-09-23 - Added Item 116 and Cthulhu card interaction
 
 
 <script>
