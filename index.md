@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN: SECOND EDITION (2025)**
 
-*Last Updated 2025-09-23*
+*Last Updated 2025-09-24*
 
 **For information about this FAQ, including how to ask questions of your own, see <a href="#page_0">Section 0</a>.** 
 Note there is a changelog in <a href="#page_11">Section 11</a> if you are looking for recent rulings.
@@ -478,6 +478,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 ![divider-narrow](/assets/images/divider2.png)
 
 ### <a name="page_71" class="page-number">7.1</a> Specific Scenario Questions
+
+**Scenario 19** The monster counts in the second room are correct, and are not an error.
 
 **Scenario 26 Errata** Monsters on tiles 2-D and 10-B should not be set up at the start of the scenario, with the exception of the City Archers located adjacent to the wall section overlays.
 
@@ -1003,6 +1005,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2025-09-10 - Overturned previous Angry Face ruling on timing for an attack modifier. Added Cragheart Clear the Way and Sun 1/X rulings.
 - 2025-09-22 - Chimeric Formula (top) ruling. Cascaded into Note ruling, plus overturning a previous Lightning Bolts ruling. Silent Knife 9 ruling.
 - 2025-09-23 - Added Item 116 and Cthulhu card interaction
+- 2025-09-24 - Sc19 does not have errata for monster counts.
 
 
 <script>
