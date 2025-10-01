@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN: SECOND EDITION (2025)**
 
-*Last Updated 2025-09-24*
+*Last Updated 2025-10-01*
 
 **For information about this FAQ, including how to ask questions of your own, see <a href="#page_0">Section 0</a>.** 
 Note there is a changelog in <a href="#page_11">Section 11</a> if you are looking for recent rulings.
@@ -479,6 +479,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 ### <a name="page_71" class="page-number">7.1</a> Specific Scenario Questions
 
+**Scenario 11** <span class="hidden">The cultists can move onto, and thereby open, closed doors in this scenario.</span>
+
 **Scenario 19** The monster counts in the second room are correct, and are not an error.
 
 **Scenario 26 Errata** Monsters on tiles 2-D and 10-B should not be set up at the start of the scenario, with the exception of the City Archers located adjacent to the wall section overlays.
@@ -602,6 +604,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 **If I Control a monster to attack using my deck, and they draw an "Invisible, Self" modifier, who benefits?** "Self" refers to the acting figure - so the monster would turn invisible. You, however, are in control of your modifier deck, and make all decisions that need to be made regarding it. You can choose not to apply it. 
 
 **Does my "Lying Low" (last in initiative) perk also help my Summons?** No; this perk only applies to you, and does not actually change when you are acting in the round.
+
+**How does my second mastery (Augments) work? What counts as 'triggering' the effects?** The augment must add something to the attack in order to count. For most Augments, this just means "make a melee attack while it's active" - you don't need to actually apply conditions, use your added reach, etc. There are three exceptions - Feedback Loop (X) and Phantasmal Killer (9) require you to perform the Grant/Control ability, and for the target to attack an enemy. (You cannot grant an attack to a figure who can't make the attack; rulebook p31.) For Silent Scream (4), the Heal ability must be performed, but because you can target yourself with it, that should rarely be an issue.
 
 ![divider-narrow](/assets/images/divider2.png)
 
@@ -1006,6 +1010,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2025-09-22 - Chimeric Formula (top) ruling. Cascaded into Note ruling, plus overturning a previous Lightning Bolts ruling. Silent Knife 9 ruling.
 - 2025-09-23 - Added Item 116 and Cthulhu card interaction
 - 2025-09-24 - Sc19 does not have errata for monster counts.
+- 2025-10-01 - Sc11 and Mindthief mastery clarification
 
 
 <script>
