@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN: SECOND EDITION (2025)**
 
-*Last Updated 2025-10-01*
+*Last Updated 2025-10-07*
 
 **For information about this FAQ, including how to ask questions of your own, see <a href="#page_0">Section 0</a>.** 
 Note there is a changelog in <a href="#page_11">Section 11</a> if you are looking for recent rulings.
@@ -775,6 +775,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>Pull the Strings (6, top) - If I add another target to this effect, will they also perform a controlled move?</b> Yes.</p> 
 
+<p><b>How does my second non-AMD perk (Carry a Tune) work?</b> Whenever you play a Song action, it wipes all your notes, even ones that weren't used for that song. This perk effectively "refunds" you for a note that you didn't need for that song, which would otherwise be wasted.</p> 
+
 </details>
 <br>
 
@@ -1011,6 +1013,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2025-09-23 - Added Item 116 and Cthulhu card interaction
 - 2025-09-24 - Sc19 does not have errata for monster counts.
 - 2025-10-01 - Sc11 and Mindthief mastery clarification
+- 2025-10-07 - Added Note perk clarification. 
 
 
 <script>
