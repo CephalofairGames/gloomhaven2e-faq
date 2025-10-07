@@ -775,7 +775,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>Pull the Strings (6, top) - If I add another target to this effect, will they also perform a controlled move?</b> Yes.</p> 
 
-<p><b>How does my second non-AMD perk (Carry a Tune) work?</b> Whenever you play a Song action, it wipes all your notes, even ones that weren't used for that song. This perk effectively "refunds" you for a note that you didn't need for that song, which would otherwise be wasted.</p> 
+<p><b>How does my second non-AMD perk (Carry a Tune) work?</b> Whenever you play a Song action, it wipes all your notes, even ones that weren't used for that song. This perk effectively "refunds" you one note that you didn't need for that song, which would otherwise be wasted.</p> 
 
 </details>
 <br>
