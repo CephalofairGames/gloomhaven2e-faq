@@ -146,7 +146,7 @@ Most of these questions were asked by the community. If you have a question that
 
 **General -** Be sure you go through the Welcome to Gloomhaven booklet, even if you are not using the built-in organizer. This contains important setup instructions for Event Decks, Personal Quests, etc.
 
-**I cannot find Room tiles 8 or 14. Am I missing a board?** No - there are no 8 or 14 room tiles in Gloomhaven: Second Edition; these tiles aren't needed for any scenarios.
+**I cannot find Room tiles 8 or 14. Am I missing a board?** No - there are no 8 or 14 room tiles in Gloomhaven: Second Edition; these tiles aren't needed for any scenarios. This is also covered in the Welcome to Gloomhaven booklet; it has essential setup instructions that you cannot skip.
 
 **The Welcome to Gloomhaven booklet has me sorting out 3 decks marked with star symbols, but I only have 2.** Bless Cards are the third; they are shared between players and monsters so do not have star symbols.
 
