@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN: SECOND EDITION (2025)**
 
-*Last Updated 2025-10-07*
+*Last Updated 2025-10-14*
 
 **For information about this FAQ, including how to ask questions of your own, see <a href="#page_0">Section 0</a>.** 
 Note there is a changelog in <a href="#page_11">Section 11</a> if you are looking for recent rulings.
@@ -376,6 +376,8 @@ Examples:
 - Attack +X depends on the monster's or summon's inherent attack value. For monsters, this attack is always melee. For a Summon, however, *it will inherit any Range characteristic the Summon always has (if any)*.
 
 **I have a Grant (or Control) ability with an elemental consumption. Who consumes this element? The Granter or the target of the Grant?** The granting figure performs any elemental consumptions, and gains earned XP from it (if any). If one Grant ability grants abilities to more than one target, all of them will benefit from one elemental consumption. The target of the Grant still performs any granted abilities like normal, including new abilities enabled by the elemental consumption. For example, Mindthief's Brain Leech (3, top) will add Wound to the controlled enemy's attack, if Ice is consumed. The Mindthief gets the XP from this consumption.
+
+**Which elemental infusions are mandatory? Can any be skipped?** If an elemental infusion is not in a mandatory (!) box, it can be skipped. 
 
 ![divider-narrow](/assets/images/divider2.png)
 
@@ -1014,6 +1016,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2025-09-24 - Sc19 does not have errata for monster counts.
 - 2025-10-01 - Sc11 and Mindthief mastery clarification
 - 2025-10-07 - Added Note perk clarification. 
+- 2025-10-14 - Ruling on optional elemental infusions
 
 
 <script>
