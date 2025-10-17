@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN: SECOND EDITION (2025)**
 
-*Last Updated 2025-10-14*
+*Last Updated 2025-10-17*
 
 **For information about this FAQ, including how to ask questions of your own, see <a href="#page_0">Section 0</a>.** 
 Note there is a changelog in <a href="#page_11">Section 11</a> if you are looking for recent rulings.
@@ -523,6 +523,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **Immovable Phalanx (6, bot) - Can I use an item like Boots to enhance my Move ability before turning it into an Attack ability?** No. You need to decide to use a Move ability as an Attack ability before performing the ability; you can't improve an ability you never performed. You can, however, use items which improve attacks once you do so.
 
+**Brute Force (9, top) - Is this free move and push before or after my Retaliate?** Both happen before your Retaliate would trigger. Pushing the enemy away would take them out of range of melee-range Retaliate before it triggered.
+
 **Patch Armor (two-check Loot perk) - What is the icon? It isn't defined in the rulebook.** This is an older "Recover" icon from the original Gloomhaven. This perk allows you to recover either a spent or lost chest slot item.
 
 ![divider-narrow](/assets/images/divider2.png)
@@ -980,6 +982,10 @@ Crossover character sheets can be found at [Cephalofair's website](https://cepha
 
 **Demolitionist** - If you bring the Demolitionist into other games, and use the Level X Rubble card, you will need to bring destruction tokens over as well. When you (and only you) destroy any obstacle through items or abilities, place a destruction token in the hex(es) it previously occupied. Hexes with only destruction tokens are considered featureless, and the destruction token should be removed if a new overlay is placed in its hex.
 
+### Other Characters in Jaws of the Lion
+
+If it is your first time playing, you should use the characters who came with the game. If you are bringing another mercenary into the intro scenarios, just pick 6 (or 8) of your cards when the other players are using their A/B cards, matching their hand sizes.
+
 <br>
 
 ![divider](/assets/images/divider.png)
@@ -1017,6 +1023,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2025-10-01 - Sc11 and Mindthief mastery clarification
 - 2025-10-07 - Added Note perk clarification. 
 - 2025-10-14 - Ruling on optional elemental infusions
+- 2025-10-17 - Brute force, JotL crossovers
 
 
 <script>
