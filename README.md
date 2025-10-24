@@ -1,6 +1,6 @@
 # gloomhaven2e-faq
 
-This is the Official FAQ for Gloomhaven: Second Edition. It is maintained by William Wilson (dwarf74). 
+This is the Official FAQ for Gloomhaven (2025), also known as Gloomhaven: Second Edition. It is maintained by William Wilson (dwarf74). 
 
 https://cephalofairgames.github.io/gloomhaven2e-faq/
 
