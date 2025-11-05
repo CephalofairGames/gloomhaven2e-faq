@@ -852,6 +852,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <details>
 <summary><b>Two Minis Spoilers</b></summary>
 <br>
+<p><b>General Note</b> - As with any Grant, Commanded abilities are fully under your control as to how they're performed. You cannot, however, change their order.</p>
+
 <p><b>Who does 'you' refer to on a Command action?</b> Everything on a Command action is written from the Bear's perspective. 'You' refers to the Bear.</p>
 
 <p><b>Concentrated Rage (1, bot) If the Bear attacks an enemy with Retaliate, do I add one token or two?</b> Two, if the Bear is damaged from the Retaliate. One for the attack, and one more if the Bear suffers Retaliate damage.</p>
