@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN: SECOND EDITION (2025)**
 
-*Last Updated 2025-10-17*
+*Last Updated 2025-11-04*
 
 **For information about this FAQ, including how to ask questions of your own, see <a href="#page_0">Section 0</a>.** 
 Note there is a changelog in <a href="#page_11">Section 11</a> if you are looking for recent rulings.
@@ -706,7 +706,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <details>
 <summary><b>Cthulhu Spoilers</b></summary>
 <br>
-<p><b>A general reminder on Targeting and Order</b> All targeting in Gloomhaven is sequential - that is, you complete a full Attack before selecting and attacking the next target in a multi-target or red hex attack. This can be especially relevant with some of your Attack Modifier Cards that give enemies Poison or Plague. If you perform a targeted ability that does something to all monsters with Plague, and more monsters gain Plague during it, those monsters can be added to your targets.</p>
+<p><b>A general reminder on Targeting and Order</b> All targeting in Gloomhaven is sequential - that is, you complete a full Attack before selecting and attacking the next target in a multi-target or red hex attack. This can be especially relevant with some of your Attack Modifier Cards that give enemies Poison or Plague. If you perform a targeted ability that does something to all monsters with Plague, and more monsters gain Plague during it, those monsters can be added to your targets. (Note that "target" is being used colloquially here; this also applies to non-targeted abilities, such as Suffer Damage.)</p>
 
 <p><b>Do I still get the bonuses from giving poison to one of my allies, if they prevent the condition (such as with Safeguard)?</b> Yes. You have fulfilled the requirement, even if they don't keep the poison.</p>
 
@@ -1024,6 +1024,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2025-10-07 - Added Note perk clarification. 
 - 2025-10-14 - Ruling on optional elemental infusions
 - 2025-10-17 - Brute force, JotL crossovers
+- 2025-11-04 - Clarity update for Cthulhu
 
 
 <script>
