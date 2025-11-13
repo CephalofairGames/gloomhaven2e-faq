@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN: SECOND EDITION (2025)**
 
-*Last Updated 2025-11-09*
+*Last Updated 2025-11-13*
 
 **For information about this FAQ, including how to ask questions of your own, see <a href="#page_0">Section 0</a>.** 
 Note there is a changelog in <a href="#page_11">Section 11</a> if you are looking for recent rulings.
@@ -395,6 +395,8 @@ Examples:
 
 **Do enemy summons or spawns drop coins when they are killed?** Yes. *This is a change from Gloomhaven 1st Edition.*
 
+**What happens to coins Looted by enemies?** They get returned to the scenario supply. They do not count against the 25 coin loot limit.
+
 ![divider-narrow](/assets/images/divider2.png)
 
 ### <a name="page_57" class="page-number">5.7</a> Objectives
@@ -612,6 +614,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 **If I Control a monster to attack using my deck, and they draw an "Invisible, Self" modifier, who benefits?** "Self" refers to the acting figure - so the monster would turn invisible. You, however, are in control of your modifier deck, and make all decisions that need to be made regarding it. You can choose not to apply it. 
 
 **Does my "Lying Low" (last in initiative) perk also help my Summons?** No; this perk only applies to you, and does not actually change when you are acting in the round.
+
+**What counts as a kill for the first (Control ability) mastery?** While Control abilities normally don't give kill credit for controlled attacks, you should count them here. This Mastery includes anything that kills a monster controlled by you - attacks, retaliate, moving into a trap, etc.
 
 **How does my second mastery (Augments) work? What counts as 'triggering' the effects?** The augment must add something to the attack in order to count. For most Augments, this just means "make a melee attack while it's active" - you don't need to actually apply conditions, use your added reach, etc. There are three exceptions - Feedback Loop (X) and Phantasmal Killer (9) require you to perform the Grant/Control ability, and for the target to attack an enemy. (You cannot grant an attack to a figure who can't make the attack; rulebook p31.) For Silent Scream (4), the Heal ability must be performed, but because you can target yourself with it, that should rarely be an issue.
 
@@ -1032,6 +1036,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2025-10-17 - Brute force, JotL crossovers
 - 2025-11-04 - Clarity update for Cthulhu
 - 2025-11-09 - PQ notes regarding PQ items.
+- 2025-11-13 - Monster loot, Mindthief mastery
 
 <script>
 	function reveal(obj) {
