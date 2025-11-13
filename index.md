@@ -120,6 +120,8 @@ Most of these questions were asked by the community. If you have a question that
 
 **Scenario 8** Scenario Goals should read, <span class="hidden">"The scenario is complete when the Bandit Commander and all revealed enemies are dead"</span>
 
+**Scenario 35, conclusion** <span class="hidden">The conclusion should also lock out Scenario 31, in addition to Scenarios 33 and 34.</span>
+
 **Scenario 56, page 69, Special Rules** <span class="hidden">The Gloom treats all Null/x0 cards as +0, not as Null/x0</span>
 
 **Scenario 62** The map layout has Tile 06 with only slots and no tabs. The flat side should be laid adjacent to the other tiles, with the tab side facing out.
