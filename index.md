@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN: SECOND EDITION (2025)**
 
-*Last Updated 2025-11-13*
+*Last Updated 2025-11-20*
 
 **For information about this FAQ, including how to ask questions of your own, see <a href="#page_0">Section 0</a>.** 
 Note there is a changelog in <a href="#page_11">Section 11</a> if you are looking for recent rulings.
@@ -505,6 +505,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **Scenario 62** The map layout has Tile 06 with only slots and no tabs. The flat side should be laid adjacent to the other tiles, with the tab side facing out.
 
+**Scenario 80** There aren't enough Stone Colossus standees for a 4-player setup. Proxy another standee for the 5th.
+
 **Scenario 88, Section 42.3** <span class="hidden">The Arcane Construct's stats return to normal on odd rounds.</span>
 
 **Scenario 90, Treasure Index 22** <span class="hidden">Both the Mountain Hammer and the Helm of the Mountain are numbered as 129. The Mountain Hammer should be numbered 130.</span>
@@ -630,6 +632,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p>(Repeated from Section 5.2) <b>How does Shield interact with Ward?</b> Shield reduces damage before Ward is applied. If I have Shield 2 and Ward and take 6 damage, the damage is first reduced to 4 by Shield, then cut in half to 2 by Ward.</p>
 
+<p><b>Soothing Light (1, top) - Can I recover Soothing Light if I target myself?</b> No; Soothing Light cannot recover itself.</p>
+
 <p><b>How do Beacon of Light (X, top) and Lay on Hands (1, top) interact?</b> X will vary for every target of the heal, based on their own maximum hit point value.</p>
 
 <p><b>Path of Glory (5, bot) - Can I Strengthen and Bless allies who are no longer in my Line of Sight after my Move?</b> No; the Strengthen, Bless is a separate ability performed after the Move is complete.</p>
@@ -638,7 +642,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>Scales of Justice (6, bot) - (1) Can I consume Light even if the attack would not normally consume Light? (2) Will the Null effect also apply to any Curses I draw?</b> (1) No - this only applies to attacks which you can already consume Light on. (2) Yes; this includes all Nulls, including Curses.</p>
 
-<p><b>If I draw my card recovery perk during an attack, can I recover the card I am using for this attack?</b> Yes, as long as it is Level 1/X, that was the final ability on the card, and it doesn't have any round bonuses or persistent effects.</p>
+<p><b>If I draw my card recovery perk during an attack, can I recover the card I am using for this attack?</b> Yes, as long as it is Level 1/X, that was the final ability on the card, and it doesn't have any round bonuses or persistent effects. As an attack modifier, the timing and prior rulings here are slightly different from the case of Soothing Light, above.</p>
 
 <p>Spoiler related to the Imbuement mechanic, once unlocked:</p> 
 <p><span class="hidden"><b>Divine Intervention (6, bot) - Will this negate any conditions on the monster's positive modifier card?</b> No; if the modifier is positive and has an effect, it will be +0 with the effect.</span></p>
@@ -1039,6 +1043,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2025-11-04 - Clarity update for Cthulhu
 - 2025-11-09 - PQ notes regarding PQ items.
 - 2025-11-13 - Monster loot, Mindthief mastery
+- 2025-11-20 - Scenario 80, Sun ruling(s)
 
 <script>
 	function reveal(obj) {
