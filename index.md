@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN: SECOND EDITION (2025)**
 
-*Last Updated 2025-11-20*
+*Last Updated 2025-11-28*
 
 **For information about this FAQ, including how to ask questions of your own, see <a href="#page_0">Section 0</a>.** 
 Note there is a changelog in <a href="#page_11">Section 11</a> if you are looking for recent rulings.
@@ -488,6 +488,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 ![divider-narrow](/assets/images/divider2.png)
 
 ### <a name="page_71" class="page-number">7.1</a> Specific Scenario Questions
+
+**Scenario 5** <span class="hidden">Hail will not move if she does not have a valid path towards (b) or towards the next door.</span>
 
 **Scenario 11** <span class="hidden">The cultists can move onto, and thereby open, closed doors in this scenario.</span>
 
@@ -1044,6 +1046,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2025-11-09 - PQ notes regarding PQ items.
 - 2025-11-13 - Monster loot, Mindthief mastery
 - 2025-11-20 - Scenario 80, Sun ruling(s)
+- 2025-11-28 - Scenario 5 clarification
 
 <script>
 	function reveal(obj) {
