@@ -182,13 +182,13 @@ Most of these questions were asked by the community. If you have a question that
 
 **Personal Quest 01, Political Intrigue** <span class="hidden">If you gain reputation from two or more factions simultaneously from one source - whether event, section, or scenario - you still only gain 3 votes.</span>
 
-**Personal Quest 01, Conclusion section 133.4** <span class="hidden">When this PQ is completed do not read your class' normal retirement section at all (this also means you will not add the corresponding class retirement events). You will instead add events related to this PQ.</span>
+**Personal Quest 01, Conclusion section 133.4** <span class="hidden">When this PQ is completed, do not read your class' normal retirement section at all (this also means you will not add the corresponding class retirement events). You will instead add events related to this PQ.</span>
 
-**Personal Quest 02, Conclusion section 125.4** <span class="hidden">When this PQ is completed do not read your class' normal retirement section at all (this also means you will not add the corresponding class retirement events). You will instead add events related to this PQ.</span>
+**Personal Quest 02**  If a class ability places an already-looted token back on the map, it can count again for purposes of this PQ. **Conclusion section 125.4** <span class="hidden">When this PQ is completed, do not read your class' normal retirement section at all (this also means you will not add the corresponding class retirement events). You will instead add events related to this PQ.</span>
 
 **Personal Quest 05, Seeker of Xorn** <span class="hidden">If Safeguard or another condition blocks you from gaining Poison, it does not advance the quest.</span>
 
-**Personal Quest 05, Conclusion section 121.2** <span class="hidden">When this PQ is completed do not read your class' normal retirement section at all (this also means you will not add the corresponding class retirement events). You will instead add events related to this PQ.</span>
+**Personal Quest 05, Conclusion section 121.2** <span class="hidden">When this PQ is completed, do not read your class' normal retirement section at all (this also means you will not add the corresponding class retirement events). You will instead add events related to this PQ.</span>
 
 **Personal Quest 07, A Tale to Tell** <span class="hidden">1. "Witness" means "participate in a scenario where..." even if you exhaust or are out of line of sight. 2. This includes goal treasure tiles. 3. These must be from 10 different scenarios.</span>
 
@@ -1043,7 +1043,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2025-11-13 - Monster loot, Mindthief mastery
 - 2025-11-20 - Scenario 80, Sun ruling(s)
 - 2025-11-28 - Scenario 5 clarification
-- 2025-12-03 - Removed erroneous Silent Knife mastery ruling, added Scenario 56 errata. Added note on puzzle book timing.
+- 2025-12-03 - Removed erroneous Silent Knife mastery ruling and put it into PQ 02 where it belongs. Added Scenario 56 errata. Added Air Bud note on puzzle book timing.
 
 <script>
 	function reveal(obj) {
