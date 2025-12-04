@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN: SECOND EDITION (2025)**
 
-*Last Updated 2025-11-28*
+*Last Updated 2025-12-03*
 
 **For information about this FAQ, including how to ask questions of your own, see <a href="#page_0">Section 0</a>.** 
 Note there is a changelog in <a href="#page_11">Section 11</a> if you are looking for recent rulings.
@@ -122,7 +122,7 @@ Most of these questions were asked by the community. If you have a question that
 
 **Scenario 35, conclusion** <span class="hidden">The conclusion should also lock out Scenario 31, in addition to Scenarios 33 and 34.</span>
 
-**Scenario 56, page 69, Special Rules** <span class="hidden">The Gloom treats all Null/x0 cards as +0, not as Null/x0</span>
+**Scenario 56, page 69, Special Rules** <span class="hidden">The Gloom treats all Null/x0 cards as +0, not as Null/x0. The Gloom's Boss Specials 1 and 2 should say "a viable attack hex" instead of "an empty hex," choosing a non-negative hex when possible.</span>
 
 **Scenario 62** The map layout has Tile 06 with only slots and no tabs. The flat side should be laid adjacent to the other tiles, with the tab side facing out.
 
@@ -135,8 +135,6 @@ Most of these questions were asked by the community. If you have a question that
 **Section 67.2 (Personal Quest 19)** The conclusion section should tell you to open the Angry Face class envelope (to match the Personal Quest card), not the Bolt class envelope.
 
 **Section 93.2, conclusion to City Event 27** <span class="hidden">This should give you Military reputation, not Demonic.</span>
-
-**Section 112.3 (Scenario 54), Special Rules** <span class="hidden">The Gloom treats all Null/x0 cards as +0, not as Null/x0</span>
 
 **Items 129/130** Both Items 129 and 130 are marked as 129. <span class="hidden">Of these, the Helm of the Mountain is correctly numbered as 129; the Mountain Hammer should be item 130.</span>
 
@@ -229,6 +227,8 @@ Most of these questions were asked by the community. If you have a question that
 **If an event or scenario outcome has me losing Prosperity, can this drop me down below my current Prosperity Level?** When the party loses X prosperity, erase the previous X boxes, but never erase a numbered box or further. 
 
 **What is Imbuement on the campaign sheet? Should I use the Imbuement track?** Ignore it until you're instructed otherwise.
+
+**When can we work on the Puzzle Book?** Only during City phases during Downtime.
 
 ![divider-narrow](/assets/images/divider2.png)
 
@@ -501,9 +501,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **Scenario 44** <span class="hidden">The effects of the Elemental Tethers apply to any Demons from the beginning of the scenario until destroyed.</span>
 
-**Scenario 54, Section 112.3 Errata** <span class="hidden">The Gloom treats all x0/Null/Curse cards as +0, not as x0.</span> 
-
-**Scenario 56 Errata** <span class="hidden">The Gloom treats all x0/Null/Curse cards as +0, not as x0.</span> 
+**Scenario 56 Errata** <span class="hidden">The Gloom treats all x0/Null/Curse cards as +0, not as x0. The Gloom's Boss Specials 1 and 2 should say "a viable attack hex" instead of "an empty hex," choosing a non-negative hex when possible.</span> 
 
 **Scenario 62** The map layout has Tile 06 with only slots and no tabs. The flat side should be laid adjacent to the other tiles, with the tab side facing out.
 
@@ -582,8 +580,6 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 **Practiced Reflexes (1, bot) - Can I end this move ability on a trap?** Yes. Traps are sprung when you enter the hex. Because you didn't spring it then, it will not spring unless you exit and re-enter the trapped hex.
 
 **Hired Help (9, top) - If I put my token on a monster who can Summon, such as a Cultist or an Ooze, do I also control their summons?** No. In all cases for all classes, when you are controlling a monster, you don’t control their summons. Their summons will be enemies to you (and to them). **What modifier deck will they use?** They will use the Ally deck in all cases.
-
-**How do I count coin tokens I place back onto the battlefield for my Loot mastery?** They do not reduce your total from the scenario. If you loot them again, they will count a second time.
 
 **Watch it Burn (9, bot) - Can I play this on a turn in which I long rest?** Yes; the parenthetical text about 'two cards you played' is a rules reminder, not a limitation.
 
@@ -1047,6 +1043,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2025-11-13 - Monster loot, Mindthief mastery
 - 2025-11-20 - Scenario 80, Sun ruling(s)
 - 2025-11-28 - Scenario 5 clarification
+- 2025-12-03 - Removed erroneous Silent Knife mastery ruling, added Scenario 56 errata. Added note on puzzle book timing.
 
 <script>
 	function reveal(obj) {
