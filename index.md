@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN: SECOND EDITION (2025)**
 
-*Last Updated 2025-12-03*
+*Last Updated 2025-12-09*
 
 **For information about this FAQ, including how to ask questions of your own, see <a href="#page_0">Section 0</a>.** 
 Note there is a changelog in <a href="#page_11">Section 11</a> if you are looking for recent rulings.
@@ -657,6 +657,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <br>
 <p><b>Can I spend supplies to refresh an item without a gold cost - such as a solo scenario item?</b> No; only items with gold costs printed on the item card can be refreshed with Supplies.</p>
 
+<p><b>If I am refreshing supplies to more than one target, does each get the total gold value in recovered items?</b> No; you have one pool of supplies, and must distribute the total among all targets.</p>
+
 <p><b>Giant Club (4, bot) - Do I need to have line of sight to my allies, to give them items at the end of my movement?</b> No; giving items to allies is not a targeted ability.</p>
 
 <p><b>What happens if I draw a "Gain the Scroll of Relocation or Sharpened Dirk" modifier while making an attack with the Sharpened Dirk?</b> Items are returned to their supply immediately when used; the Dirk would be available to gain, again, via this modifier.</p>
@@ -704,6 +706,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <p><b>How does Teleport interact with Tears?</b> You don't move through any intervening hexes with a Teleport. If you want to use a Tear while teleporting, you must end the Teleport in the Tear to lose Invisbile.</p>
 
 <p><b>Enemies treat my hex as unoccupied - can they place a trap on my hex?</b> Enemies treat your hex as unoccupied only for purposes of movement and teleport. They still cannot (for example) place a trap in your hex.</p>
+
+<p><b>Swallowed by Fear (1, top) - How is the Kill effect timed? Before or after Retaliate?</b> It is timed ambiguously with Retaliate, so you can decide the order.</p>
 
 <p><b>Prepare for the Kill (3, top)</b> (1) The 'whenever' clause just lets this card persist until it triggers. It is discarded when it triggers. (2) The tear is removed immediately when you enter its hex, so this will interrupt your movement to gain Strengthen and damage the adjacent enemies. You may continue the move afterwards.</p>
 
@@ -906,6 +910,9 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>Can I just start with my second Mastery already checked?</b> It's up to you - but do you <i>really</i> think you deserve it?</p>
 
+<p>Spoiler related to the Imbuement mechanic, once unlocked:</p> 
+<p><span class="hidden"><b>Deflecting Blades (1, bot) - Will this negate any conditions on the monster's positive modifier card?</b> No; if the modifier is positive and has an effect, it will be +0 with the effect.</span></p>
+
 </details>
 <br>
 
@@ -1044,6 +1051,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2025-11-20 - Scenario 80, Sun ruling(s)
 - 2025-11-28 - Scenario 5 clarification
 - 2025-12-03 - Removed erroneous Silent Knife mastery ruling and put it into PQ 02 where it belongs. Added Scenario 56 errata. Added Air Bud note on puzzle book timing.
+- 2025-12-09 - Added rulings for Eclipse and Crossed Swords. Added clarification on Spears.
 
 <script>
 	function reveal(obj) {
