@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN: SECOND EDITION (2025)**
 
-*Last Updated 2025-12-09*
+*Last Updated 2025-12-26*
 
 **For information about this FAQ, including how to ask questions of your own, see <a href="#page_0">Section 0</a>.** 
 Note there is a changelog in <a href="#page_11">Section 11</a> if you are looking for recent rulings.
@@ -194,11 +194,13 @@ Most of these questions were asked by the community. If you have a question that
 
 **Personal Quest 15, Conclusion section 128.2** <span class="hidden">When this PQ is completed do not read your class' normal retirement section at all (this also means you will not add the corresponding class retirement events). You will instead add events related to this PQ.</span>
 
-**Personal Quest 16, The Perfect Poison** <span class="hidden">If all Poison Daggers are owned by other players, they can sell one immediately to make it available for you to gain.</span>
+**Personal Quest 16, The Perfect Poison** <span class="hidden">If all Poison Daggers are owned by other players, they can sell one immediately to make it available for you to gain. The enemy needs to actually be poisoned afterwards to count for this PQ; if it was blocked (for example) by Safeguard, it would not count towards completion.</span>
 
 **Personal Quest 17, Living on the Edge** The conclusion section (47.4) mistakenly has the Two Minis icon instead of the Lightning Bolts icon. The Lightning Bolts icon on the PQ card is correct.
 
 **Personal Quest 19, Martial Study** The conclusion section (67.2) mistakenly has the Lightning Bolts icon instead of the Angry Face icon. The Angry Face icon on the PQ card is correct.
+
+**Personal Quest 20, Piety in All Things** <span class="hidden">Free donations, due to a perk or other effect, will not count towards this PQ's completion. The total gold donation is important, not the number of donations.</span>
 
 **Personal Quest 22, Trophy Hunt** The conclusion section (21.1) mistakenly has the Angry Face icon instead of the Two Minis icon. The Two Minis icon on the PQ card is correct.
 
@@ -573,9 +575,13 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **How does my first Mastery (consume Fire and Ice 6 times) work?** Over the course of a single scenario, in at least six different turns, you must consume both Fire and Ice.
 
+**If I have Safeguard when I use my Crystalline Stasis (stun/invisible self) perk, what happens?** You still gain Invisible, but the Stun will be blocked by the Safeguard.
+
 ![divider-narrow](/assets/images/divider2.png)
 
 ### ![Silent Knife Icon](/assets/images/04_silent_knife.png) <a name="page_804" class="page-number">8.4</a> Silent Knife
+
+**Character Board Note** - The upper right corner shows examples of ally adjacency and enemy isolation from your ability cards; they are not additional mechanics for the class.
 
 **Practiced Reflexes (1, bot) - Can I end this move ability on a trap?** Yes. Traps are sprung when you enter the hex. Because you didn't spring it then, it will not spring unless you exit and re-enter the trapped hex.
 
@@ -703,6 +709,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>Can I use a Tear that's occupied by an enemy?</b> Yes, but you cannot end your movement in an occupied hex. Remember - you don't lose Invisible until the end of your Move ability.</p>
 
+<p><b>For my Red Hex abilities with a Tear hex, what parts are mandatory?</b> You must perform the main-line ability to place the Tear. For example, on Silent Force (1), you must Stun an enemy to place the Tear. Placing the Tear is not mandatory, and it's fine if the Tear hex is (for example) in a wall.</p>
+
 <p><b>How does Teleport interact with Tears?</b> You don't move through any intervening hexes with a Teleport. If you want to use a Tear while teleporting, you must end the Teleport in the Tear to lose Invisbile.</p>
 
 <p><b>Enemies treat my hex as unoccupied - can they place a trap on my hex?</b> Enemies treat your hex as unoccupied only for purposes of movement and teleport. They still cannot (for example) place a trap in your hex.</p>
@@ -785,7 +793,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>A reminder on ambiguity:</b> A lot of your Songs will look for the "closest ally" or other comparisons that can easily be tied. As always, you can resolve this ambiguity however you wish.</p>
 
-<p><b>Are you aware that clefs aren't notes?</b> Yes.</p>
+<p><b>Is a Note an ability?</b> No; you must perform at least one ability in the action to get an attached note.</p>
 
 <p><b>Provoke Terror (X, top) - If I don't push an enemy, are they still stunned?</b> No; the stun is an added effect on the push, so each enemy must be pushed at least 1 hex in order to be stunned.</p>
 
@@ -1052,6 +1060,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2025-11-28 - Scenario 5 clarification
 - 2025-12-03 - Removed erroneous Silent Knife mastery ruling and put it into PQ 02 where it belongs. Added Scenario 56 errata. Added Air Bud note on puzzle book timing.
 - 2025-12-09 - Added rulings for Eclipse and Crossed Swords. Added clarification on Spears.
+- 2025-12-26 - PQ16, PQ20, Eclipse, Spellweaver rulings. Silent Knife clarification.
 
 <script>
 	function reveal(obj) {
