@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN: SECOND EDITION (2025)**
 
-*Last Updated 2025-12-26*
+*Last Updated 2026-01-04*
 
 **For information about this FAQ, including how to ask questions of your own, see <a href="#page_0">Section 0</a>.** 
 Note there is a changelog in <a href="#page_11">Section 11</a> if you are looking for recent rulings.
@@ -194,7 +194,7 @@ Most of these questions were asked by the community. If you have a question that
 
 **Personal Quest 15, Conclusion section 128.2** <span class="hidden">When this PQ is completed do not read your class' normal retirement section at all (this also means you will not add the corresponding class retirement events). You will instead add events related to this PQ.</span>
 
-**Personal Quest 16, The Perfect Poison** <span class="hidden">If all Poison Daggers are owned by other players, they can sell one immediately to make it available for you to gain. The enemy needs to actually be poisoned afterwards to count for this PQ; if it was blocked (for example) by Safeguard, it would not count towards completion.</span>
+**Personal Quest 16, The Perfect Poison** <span class="hidden">If all Poison Daggers are owned by other players, they can sell one immediately to make it available for you to gain. The enemy needs to actually be poisoned afterwards to count for this PQ; if it was blocked (for example) by Safeguard, it would not count towards completion.</span> **Conclusion Section 8.3** <span class="hidden">This bonus Poison enhancement can be placed on a square or circle enhancement mark, not just a diamond. It still must be in a sensible location - for example, on an attack or another condiditon - as opposed to on a move.</span>
 
 **Personal Quest 17, Living on the Edge** The conclusion section (47.4) mistakenly has the Two Minis icon instead of the Lightning Bolts icon. The Lightning Bolts icon on the PQ card is correct.
 
@@ -619,6 +619,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **Cranium Overload (3, top)** - All of the attacks in this action are considered melee attacks. All the attacks require line of sight, as is standard for attacks.
 
+**Many as One (9, bot) + Feedback Loop (X, top)** If a character ally triggers Feedback Loop, one of their summons (if any) will perform the granted attack. If one of your summons triggers it, a different one of your summons (if any) will perform the granted attack.
+
 **If I Control a monster to attack using my deck, and they draw an "Invisible, Self" modifier, who benefits?** "Self" refers to the acting figure - so the monster would turn invisible. You, however, are in control of your modifier deck, and make all decisions that need to be made regarding it. You can choose not to apply it. 
 
 **Does my "Lying Low" (last in initiative) perk also help my Summons?** No; this perk only applies to you, and does not actually change when you are acting in the round.
@@ -719,6 +721,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>Prepare for the Kill (3, top)</b> (1) The 'whenever' clause just lets this card persist until it triggers. It is discarded when it triggers. (2) The tear is removed immediately when you enter its hex, so this will interrupt your movement to gain Strengthen and damage the adjacent enemies. You may continue the move afterwards.</p>
 
+<p><b>Shadowstrike (8, top)</b> Note that although 'suffer damage' is not generally a targeted effect, red hexes imply targeting. You need a targetable enemy in the red hexes to perform this ability.</p>
 
 </details>
 <br>
@@ -1061,6 +1064,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2025-12-03 - Removed erroneous Silent Knife mastery ruling and put it into PQ 02 where it belongs. Added Scenario 56 errata. Added Air Bud note on puzzle book timing.
 - 2025-12-09 - Added rulings for Eclipse and Crossed Swords. Added clarification on Spears.
 - 2025-12-26 - PQ16, PQ20, Eclipse, Spellweaver rulings. Silent Knife clarification.
+- 2026-01-04 - Eclipse 8 clarification, Mindthief X+9, and PQ 16 conclusion
 
 <script>
 	function reveal(obj) {
