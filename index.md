@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN: SECOND EDITION (2025)**
 
-*Last Updated 2026-01-04*
+*Last Updated 2026-01-06*
 
 **For information about this FAQ, including how to ask questions of your own, see <a href="#page_0">Section 0</a>.** 
 Note there is a changelog in <a href="#page_11">Section 11</a> if you are looking for recent rulings.
@@ -529,6 +529,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 ### ![Bruiser Icon](/assets/images/01_bruiser.png) <a name="page_801" class="page-number">8.1</a> Bruiser
 
+**Fearsome Taunt (X, bot) - What happens if I am Invisible?** Because enemies cannot target you while you are Invisible, the attack redirection doesn't happen. The original target of the attack remains the target of the attack.
+
 **Defensive Tactics (5, top) - Does this replace my original Shield or Retaliate ability?** No, Defensive Tactics adds to the first Shield or Retaliate you gain each round. If you use Shield Bash (1, bot) while Defensive Tactics is active, you will gain a total of Shield 2, Retaliate 1.
 
 **Defensive Tactics (5, top) - Does this also apply when I gain Retaliate from a modifier card, or from a persistent effect like Warding Strength (1, bot)?** Yes, it adds to the first Shield or Retaliate you gain each round from your ability or attack modifier cards - but not items. A persistent effect is still on one of your cards.
@@ -608,6 +610,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 **Clear the Way (3, top) - Can I just use this to relocate an obstacle, without making an attack?** Yes, if you relocate it to a hex that is not adjacent to any enemies. However, if you move the obstacle adjacent to one or more enemies, you must attack one or more of them due to the 'voluntary ability' rule in GH2e.
 
 **Brutal Momentum (7, bot) - Do I get both the Move 3 and the attack bonus at the start of my next four turns, or just the move?** You get both at the start of your next four turns.
+
+**Tremors (enemy movement) Perk - Is this done before or after ability cards are drawn for the new room's enemies?** These Control abilities are performed after ability cards are flipped for newly revealed enemies. If you opened the door, they are done before your turn ends.
 
 ![divider-narrow](/assets/images/divider2.png)
 
@@ -962,6 +966,8 @@ Items are listed by their item number.
 
 **Item 018** <span class="hidden"><b>Heavy Basinet - </b> Note that this does not allow you to prevent self-inflicted conditions; it's only those applied by enemies.</span>
 
+**Item 029** <span class="hidden"><b>Nimble Legguards - What do these do, if I am Invisible?</b> If you cannot be targeted by an enemy due to Invisbility, you cannot use this item to redirect an attack to yourself.</span>
+
 **Item 116 - How is this item unlocked?** You've unlocked it now, by reading this FAQ entry! The item was unlocked for all players via a Backerkit update on Sept 23, 2025. **Can I use the front side of this item if I already have disadvantage on an attack?** No; you cannot gain multiple instances of advantage or disadvantage on one attack, so cannot pay the "cost" to flip it. **Can I use the front of this item on an attack an ally grants to me?** Yes, but the item will not flip over until the end of your next turn, per its flip instructions.
 
 **Item 133** <span class="hidden"><b>Heart of the Betrayer - What does this item do?</b> Basically, instead of being attacked by the enemy, you can make them perform an Attack -1 on one of your other enemies. This can just be used to negate an attack, if that enemy is unable to make an attack, or if you don't want them to make an attack.</span>
@@ -1065,6 +1071,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2025-12-09 - Added rulings for Eclipse and Crossed Swords. Added clarification on Spears.
 - 2025-12-26 - PQ16, PQ20, Eclipse, Spellweaver rulings. Silent Knife clarification.
 - 2026-01-04 - Eclipse 8 clarification, Mindthief X+9, and PQ 16 conclusion
+- 2026-01-06 - Bruiser and Cragheart rulings. Item 029 ruling added.
 
 <script>
 	function reveal(obj) {
