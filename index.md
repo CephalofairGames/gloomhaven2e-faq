@@ -70,7 +70,7 @@ I follow standard spoiler rules in this FAQ. I will spoiler-tag all locked conte
 
 ### 0.2 About Me
 
-I am Bill (or dwarf74 in most places). I also maintain the Frosthaven FAQ, and am currently a moderator of Reddit’s /r/Gloomhaven. I am altogether too active in Gloomhaven fan communities, and I am kind of obsessive about writing guides and making lists for games I love, so Cephalofair decided to contract me to maintain this FAQ. I'd like to give special thanks to general_cgo, gripeaway, themris, /u/JamesyWamesy1, and Nikki Valens for their help.
+I am Bill (or dwarf74/dwarfSA in most places). I also maintain other FAQs for Cephalofair, and am currently a moderator of Reddit’s /r/Gloomhaven. I'd like to give special thanks to general_cgo, gripeaway, themris, /u/JamesyWamesy1, and Nikki Valens for their help.
 
 ![divider](/assets/images/divider2.png)
 
