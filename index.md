@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN: SECOND EDITION (2025)**
 
-*Last Updated 2026-01-06*
+*Last Updated 2026-01-07*
 
 **For information about this FAQ, including how to ask questions of your own, see <a href="#page_0">Section 0</a>.** 
 Note there is a changelog in <a href="#page_11">Section 11</a> if you are looking for recent rulings.
@@ -810,6 +810,10 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>Pull the Strings (6, top) - If I add another target to this effect, will they also perform a controlled move?</b> Yes.</p> 
 
+<p><b>How do my Songs work with Line of Sight?</b> If your Songs have you performing targeted abilities, they require line of sight. Here, that would include Attack, Heal, Grant, Condition (without 'gains'), or Forced Movement. Other effects, like bonuses, suffer damage, and anything phrased as 'gains', don't.</p>
+<p><b>Requires Line of Sight: </b>Mobilizing Measure (1), Dissonant Rhythym (1), Soothing Lullaby (2), Alluring Serenade (4), Captivating Performance (9)</p>
+<p><b>Doesn't Require Line of Sight: </b>Bewildering Instrumental (1), Wearying Chant (1), Power Ballad (1), Defensive Ditty (X), Echoing Aria (X), Ode to the Gambler (3), Thrilling Solo (5), Disorienting Dirge (6), Wistful Wounding (7), Toughening Trill (8)</p>
+
 <p><b>How does my second non-AMD perk (Carry a Tune) work?</b> Whenever you play a Song action, it wipes all your notes, even ones that weren't used for that song. This perk effectively "refunds" you one note that you didn't need for that song, which would otherwise be wasted.</p> 
 
 </details>
@@ -1072,6 +1076,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2025-12-26 - PQ16, PQ20, Eclipse, Spellweaver rulings. Silent Knife clarification.
 - 2026-01-04 - Eclipse 8 clarification, Mindthief X+9, and PQ 16 conclusion
 - 2026-01-06 - Bruiser and Cragheart rulings. Item 029 ruling added.
+- 2026-01-07 - Music Note and Line of Sight; asked enough that this was added.
 
 <script>
 	function reveal(obj) {
