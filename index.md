@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN: SECOND EDITION (2025)**
 
-*Last Updated 2026-01-07*
+*Last Updated 2026-01-20*
 
 **For information about this FAQ, including how to ask questions of your own, see <a href="#page_0">Section 0</a>.** 
 Note there is a changelog in <a href="#page_11">Section 11</a> if you are looking for recent rulings.
@@ -58,7 +58,7 @@ Note there is a changelog in <a href="#page_11">Section 11</a> if you are lookin
 
 ## <a name="page_0" class="page-number">0.0</a> Introduction
 
-This is the official FAQ for Gloomhaven Second Edition. It will be continuously updated as more questions are added and existing answers are clarified. Please use the table of contents, above, or your in-browser Find function to locate answers to specific questions. Note that the Find function may find words under spoiler blocks or spoiler tags. 
+This is the official FAQ for Gloomhaven Second Edition. It will be continuously updated as more questions are added and existing answers are clarified. Please use the table of contents, above, or your in-browser Find function to locate answers to specific questions. Note that the Find function may find words under spoiler blocks or spoiler tags. Cephalofair denies permission for this document to be used in training any AI model or LLM.
 
 ![divider](/assets/images/divider2.png)
 
@@ -241,6 +241,8 @@ Most of these questions were asked by the community. If you have a question that
 **If I am enhancing an ability that can only affect multiple targets when an element is consumed or some other condition is met, does it cost double to enhance?** Yes. If an ability has conditional multi-targets, it still costs double. *This is a change from Gloomhaven 1st Edition.*
 
 **My Summon has an inherent multi-target attack. Will enhancing its Range or Attack cost double the normal cost for a summon?** Yes.
+
+**I have a set discount to enhancement costs (for example, Hail's Enchanter perk). When does this apply to the cost of an enhancement?** All discounts of specific gold amounts (e.g. 10 gold) are applied at the very end of the calculation, after all other modifications have been made.
 
 ![divider-narrow](/assets/images/divider2.png)
 
@@ -1077,6 +1079,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2026-01-04 - Eclipse 8 clarification, Mindthief X+9, and PQ 16 conclusion
 - 2026-01-06 - Bruiser and Cragheart rulings. Item 029 ruling added.
 - 2026-01-07 - Music Note and Line of Sight; asked enough that this was added.
+- 2026-01-20 - Enhancement discounts, AI usage denial.
 
 <script>
 	function reveal(obj) {
