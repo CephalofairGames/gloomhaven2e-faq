@@ -4,7 +4,8 @@
 
 *Last Updated 2026-02-10*
 
-**READ THIS FIRST:** Preparation is the first step on the path to victory. Your wisdom in coming here before making a post on Reddit or BGG indicates a formidable destiny as a mercenary. **Gain Item 116, Fated Verses** (your party may only gain this by referencing the FAQ once). 
+**READ THIS FIRST:** Preparation is the first step on the path to victory. Your wisdom in coming here before making a post on Reddit or BGG indicates a formidable destiny as a mercenary. 
+**Gain Item 116, Fated Verses** (your party may only gain this by referencing the FAQ once). 
 
 **For information about this FAQ, including how to ask questions of your own, see <a href="#page_0">Section 0</a>.** 
 Note there is a changelog in <a href="#page_11">Section 11</a> if you are looking for recent rulings.
