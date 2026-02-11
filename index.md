@@ -312,7 +312,7 @@ Most of these questions were asked by the community. If you have a question that
 
 **I Controlled an enemy to attack, but they drew a positive condition that would apply to them - like a Heal or Invisible Self. Who benefits from this? Can I decide not to allow it?** Anything like "Invisible Self" will apply to the enemy who drew the modifier card. You can decide whether or not any added effect is applied from their modifier draw, however.
 
-**Can you go into more detail on what draws for Advantage or Disadvantage are considered "ambiguous"? What's considered better or worse when drawn by a monster?** When you're comparing two modifier cards for Advantage or Disadvantage, all non-numeric effects listed on the modifier card (negative conditions, shield, elements, healing, etc.) have a *positive but unknown* value. Conditional numeric bonuses based on the board state (like Spellweaver's "+2 if drawn during a Lost action" card) are evaluated and considered as part of the numeric value, where appropriate. The attack value is considered in cases where a x2 modifier is drawn. Items, such as Item 027 <span class="hidden">Iron Helm</span>, that change the modifier card value, are also evaluated before a better/worse card is determined.
+**Can you go into more detail on what draws for Advantage or Disadvantage are considered "ambiguous"? What's considered better or worse when drawn by a monster?** When you're comparing two modifier cards for Advantage or Disadvantage, all non-numeric effects listed on the modifier card (negative conditions, shield, elements, healing, etc.) have a *positive but unknown* value. Conditional numeric bonuses based on the board state (like Spellweaver's "+2 if drawn during a Lost action" card) are evaluated and considered as part of the numeric value, where appropriate. If those would require a cost to be paid, it is considered to have an unknown positive value.The attack value is considered in cases where a x2 modifier is drawn. Items, such as Item 027 <span class="hidden">Iron Helm</span>, that change the modifier card value, are also evaluated before a better/worse card is determined.
 
 No other considerations for board state are included (such as an element already being strong, an enemy already being poisoned, a lack of extra targets, etc.) Rolling modifiers before the two terminal cards are also not considered; they are all included with either terminal card with Advantage, while all are discarded with Disadvantage. Note that even seemingly "negative" effects (like a self-condition or self-damage) are considered "positive" for ambiguity.
 
@@ -1084,7 +1084,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2026-01-06 - Bruiser and Cragheart rulings. Item 029 ruling added.
 - 2026-01-07 - Music Note and Line of Sight; asked enough that this was added.
 - 2026-01-20 - Enhancement discounts, AI usage denial.
-- 2026-02-10 - Added Fated Verses to top of FAQ. Summon Advantage ruling in 5.4. Sc56 clarification.
+- 2026-02-10 - Added Fated Verses to top of FAQ. Summon Advantage ruling in 5.4. Sc56 clarification. Ruling on boneshaper advantage summon kill also added, sans reference to boneshaper.
 
 <script>
 	function reveal(obj) {
