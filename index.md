@@ -2,10 +2,12 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN: SECOND EDITION (2025)**
 
-*Last Updated 2026-01-20*
+*Last Updated 2026-02-10*
 
 **For information about this FAQ, including how to ask questions of your own, see <a href="#page_0">Section 0</a>.** 
 Note there is a changelog in <a href="#page_11">Section 11</a> if you are looking for recent rulings.
+
+**Preparation is the first step on the path to victory.** Your wisdom in coming here before making a post on Reddit or BGG indicates a formidable destiny as a mercenary. Gain Item 116 Fated Verses (your party may only gain this by referencing the FAQ once).
 
 1. <a href="#page_01">Errata</a>
 1. <a href="#page_2">Component and Setup Questions</a>
@@ -328,6 +330,8 @@ Examples:
 
 **Can I choose not to infuse an element I draw on a modifier card, or is it mandatory, like on my ability cards?** Unless the element is in a mandatory (!) box, elemental infusions on your modifier cards are optional.
 
+**If my Summon has Advantage for their attack, do I get to pick which terminal modifier is used for the attack?** Yes, you do, even if it is a normal attack using monster focus rules.
+
 ![divider-narrow](/assets/images/divider2.png)
 
 ### <a name="page_54" class="page-number">5.4</a> Conditions
@@ -505,7 +509,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **Scenario 44** <span class="hidden">The effects of the Elemental Tethers apply to any Demons from the beginning of the scenario until destroyed.</span>
 
-**Scenario 56 Errata** <span class="hidden">The Gloom treats all x0/Null/Curse cards as +0, not as x0. The Gloom's Boss Specials 1 and 2 should say "a viable attack hex" instead of "an empty hex," choosing a non-negative hex when possible.</span> 
+**Scenario 56 Errata and Clarification** <span class="hidden">The Gloom treats all x0/Null/Curse cards as +0, not as x0. The Gloom's Boss Specials 1 and 2 should say "a viable attack hex" instead of "an empty hex," choosing a non-negative hex when possible. For Special 1, if you have Ward or Shield, damage is reduced before splitting. If any of your allies also have Ward, it will trigger for them as well.</span> 
 
 **Scenario 62** The map layout has Tile 06 with only slots and no tabs. The flat side should be laid adjacent to the other tiles, with the tab side facing out.
 
@@ -1080,6 +1084,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2026-01-06 - Bruiser and Cragheart rulings. Item 029 ruling added.
 - 2026-01-07 - Music Note and Line of Sight; asked enough that this was added.
 - 2026-01-20 - Enhancement discounts, AI usage denial.
+- 2026-02-10 - Added Fated Verses to top of FAQ. Summon Advantage ruling in 5.4. Sc56 clarification.
 
 <script>
 	function reveal(obj) {
