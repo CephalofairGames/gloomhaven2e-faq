@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN: SECOND EDITION (2025)**
 
-*Last Updated 2026-02-10*
+*Last Updated 2026-03-05*
 
 **READ THIS FIRST:** Preparation is the first step on the path to victory. Your wisdom in coming here before making a post on Reddit or BGG indicates a formidable destiny as a mercenary. 
 **Gain Item 116, Fated Verses** (your party may only gain this by referencing the FAQ once). 
@@ -196,6 +196,8 @@ Most of these questions were asked by the community. If you have a question that
 
 **Personal Quest 07, A Tale to Tell** <span class="hidden">1. "Witness" means "participate in a scenario where..." even if you exhaust or are out of line of sight. 2. This includes goal treasure tiles. 3. These must be from 10 different scenarios.</span>
 
+**Personal Quest 12** - The scenario number should be 65, not 67. The scenario name is correct.
+
 **Personal Quest 15, Conclusion section 128.2** <span class="hidden">When this PQ is completed do not read your class' normal retirement section at all (this also means you will not add the corresponding class retirement events). You will instead add events related to this PQ.</span>
 
 **Personal Quest 16, The Perfect Poison** <span class="hidden">If all Poison Daggers are owned by other players, they can sell one immediately to make it available for you to gain. The enemy needs to actually be poisoned afterwards to count for this PQ; if it was blocked (for example) by Safeguard, it would not count towards completion.</span> **Conclusion Section 8.3** <span class="hidden">This bonus Poison enhancement can be placed on a square or circle enhancement mark, not just a diamond. It still must be in a sensible location - for example, on an attack or another condiditon - as opposed to on a move.</span>
@@ -290,7 +292,7 @@ Most of these questions were asked by the community. If you have a question that
 
 **When I lose a card to avoid all damage, do I lose Ward?** Yes. Ward's effects are considered before the Damage Negation step.
 
-**If I lose a card to avoid all damage, do I still need to mark use slots on defensive items like armor?** Yes, unless you can bring the damage to 0 by other means. The order of operations for taking damage means that mandatory items get used before you negate it by losing a card. 
+**If I lose a card (or use some other effect) to avoid all damage, do I still need to mark use slots on defensive items like armor?** Yes, unless you can bring the damage to 0 by other means. The order of operations for taking damage means that mandatory items get used before you negate it by losing a card. 
 
 **How does Shield interact with Ward?** Shield reduces damage before Ward is applied. If I have Shield 2 and Ward and take 6 damage, the damage is first reduced to 4 by Shield, then cut in half to 2 by Ward.
 
@@ -453,6 +455,8 @@ Examples:
 
 **When does a Monster consume an element? When does a Monster infuse an element?** If any monster in a set is going to perform any ability this round, elements are consumed at the start of the first monster in the set's turn, and elements are infused after the last monster in the set's turn. All monsters in the set benefit from any elemental consumption.
 
+**If there are two sets of identical monsters (say, Inox Guards as enemies and City Guards as allies), do they each draw their own ability card?** Unless the scenario rules state otherwise, they share the same card, and allies will act before enemies.
+
 ![divider-narrow](/assets/images/divider2.png)
 
 ### <a name="page_59" class="page-number">5.9</a> Scenario Allies
@@ -572,6 +576,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 ![divider-narrow](/assets/images/divider2.png)
 
 ### ![Spellweaver Icon](/assets/images/03_spellweaver.png) <a name="page_803" class="page-number">8.3</a> Spellweaver
+
+**Reviving Ether (1, top) - Can this also recover Lost items?** No; lost items do not go into your Lost ability cards pile.
 
 **Can Ice Armor (X, top) work for a summoned ally or a scenario ally?** Yes; Ice Armor remains your card, and stays in your active area. It can be applied to any ally.
 
@@ -1087,6 +1093,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2026-01-07 - Music Note and Line of Sight; asked enough that this was added.
 - 2026-01-20 - Enhancement discounts, AI usage denial.
 - 2026-02-10 - Added Fated Verses to top of FAQ. Summon Advantage ruling in 5.4. Sc56 clarification. Ruling on boneshaper advantage summon kill also added, sans reference to boneshaper.
+- 2026-03-05 - 3.8 monsters with same types on different factions, 5.2 clarifying damage negation source, Spellweaver Reviving Ether, added pq errata to pq section.
 
 <script>
 	function reveal(obj) {
