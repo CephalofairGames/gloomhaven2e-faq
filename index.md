@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN: SECOND EDITION (2025)**
 
-*Last Updated 2026-03-05*
+*Last Updated 2026-03-28*
 
 **READ THIS FIRST:** Preparation is the first step on the path to victory. Your wisdom in coming here before making a post on Reddit or BGG indicates a formidable destiny as a mercenary. 
 **Gain Item 116, Fated Verses** (your party may only gain this by referencing the FAQ once). 
@@ -761,9 +761,11 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>Can I apply Plague to an enemy Objective?</b> Yes - Plague is not considered a condition.</p>
 
-<p><b>Nightmarish Affliction (3, bot) - How many times do I need to poison allies if I use this in combination with Delirium's Danse (X)?</b> Either two or three, depending on your preferred timing. If you add Stun to the top of Danse first, it's two total poisoned allies. If it's after, you'd need to poison a total of three allies.</p>
-
 <p><b>Do I need Line of Sight for a Plague ability?</b> Sometimes. For an ability like Path of Pox (1, bot), you would not. Plague is not a condition, and applying it is not a targeted ability. You can perform standalone Plagues to targets out of line of sight, or even without targets at all. On the other hand, an action like Festering Sores (1, top) has both Wound and Plague - applying Wound is a Condition ability, and therefore the whole ability is targeted. (Note that in Gloomhaven: Second Edition, you can't pick and choose parts of an Ability to perform; you either perform all of it or none of it, per rulebook pg 35.)</p>
+
+<p><b>Wretched Yield (1, top) - How much can I heal if I add one or more targets to the attack?</b> You'd count all Plague on all targets for the heal ability.</p>
+
+<p><b>Nightmarish Affliction (3, bot) - How many times do I need to poison allies if I use this in combination with Delirium's Danse (X)?</b> Either two or three, depending on your preferred timing. If you add Stun to the top of Danse first, it's two total poisoned allies. If it's after, you'd need to poison a total of three allies.</p>
 
 <p><b>I have questions about the two check perk, Xorn's Propogation...</b></p> 
 <p>(1) Yes, you can control the monster even if it has already acted in the round - or if it died during its own turn. This happens immediately, inserted into the turn order, and the monster always performs its full card.</p>
@@ -870,7 +872,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>Experimental Stimulants (4, top) - When do I evaluate if the target has an active Prescription? When I perform the ability, or when they would suffer damage?</b> This is evaluated when you play the ability. The damage negation effect works, even if they no longer have the Prescription when they would suffer their next damage.</p>
 
-<p><b>Do No Harm (4, top) - Am I disarmed until this persistent effect concludes?</b> No; the Disarm (self) is performed once, when the action is first played.</p>
+<p><b>Do No Harm (4, top) - Am I disarmed until this persistent effect concludes?</b> No; the Disarm (self) is performed once, when the action is first played. <b>How does the persistent tracker work if I added one or more targets to the attack ability?</b> All targets share the same track, so the use slot token will move forward one slot (and refresh one Stun condition) any time any of those targets loses Stun. (It is likely this will significantly shorten the duration of the persistent.)</p>
 
 </details>
 <br>
@@ -1094,6 +1096,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2026-01-20 - Enhancement discounts, AI usage denial.
 - 2026-02-10 - Added Fated Verses to top of FAQ. Summon Advantage ruling in 5.4. Sc56 clarification. Ruling on boneshaper advantage summon kill also added, sans reference to boneshaper.
 - 2026-03-05 - 3.8 monsters with same types on different factions, 5.2 clarifying damage negation source, Spellweaver Reviving Ether, added pq errata to pq section.
+- 2026-03-28 - Saw (4) and Cthulhu (1) clarifications on adding targets to certain attack abilities.
 
 <script>
 	function reveal(obj) {
