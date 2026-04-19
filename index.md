@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN: SECOND EDITION (2025)**
 
-*Last Updated 2026-03-28*
+*Last Updated 2026-04-19*
 
 **READ THIS FIRST:** Preparation is the first step on the path to victory. Your wisdom in coming here before making a post on Reddit or BGG indicates a formidable destiny as a mercenary. 
 **Gain Item 116, Fated Verses** (your party may only gain this by referencing the FAQ once). 
@@ -184,7 +184,7 @@ Most of these questions were asked by the community. If you have a question that
 
 **My Personal Quest gives me an item when I take it (for example, Item 149, the Aesther Spyglass, for PQ04). What happens to this item once I retire?** Unless instructed otherwise, the item goes to the supply like all other items do, making them available for purchase.
 
-**Personal Quest 01, Political Intrigue** <span class="hidden">If you gain reputation from two or more factions simultaneously from one source - whether event, section, or scenario - you still only gain 3 votes.</span>
+**Personal Quest 01, Political Intrigue** <span class="hidden">If you gain reputation from two or more factions simultaneously from one source - whether event, section, or scenario - you still only gain 3 votes. If, due to a lock, you couldn't gain more reputation in a given track, you can still gain progress towards this PQ.</span>
 
 **Personal Quest 01, Conclusion section 133.4** <span class="hidden">When this PQ is completed, do not read your class' normal retirement section at all (this also means you will not add the corresponding class retirement events). You will instead add events related to this PQ.</span>
 
@@ -359,6 +359,8 @@ Examples:
 **If I have an Ability with a “Target All” can I choose to exclude some targets?** If there isn’t a Mandatory box, and it's not a negative effect on you or your allies, you can choose to exclude targets from a Target All effect.
 
 **Can I skip targets in a red hex AoE attack?** Yes; a red hex AoE just determines the hexes where your potential targets are. *Note - this is a change from the Gloomhaven 1e FAQ, and is to make it consistent with all other non-mandatory targeting.*
+
+**How do red hex abilities interact with walls?** While you need line of sight to all targets in a red hex pattern, you can otherwise ignore the presence of walls. Red hex patterns just operate as-is; even though a wall line means you're not adjacent to the opposite hex, it won't interfere with (for example) Bruiser's Skewer (1, top).
 
 **Can I skip the heal ability from long resting?** Yes.
 
@@ -755,7 +757,9 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>Do I still get the bonuses from giving poison to one of my allies, if they prevent the condition (such as with Safeguard)?</b> Yes. You have fulfilled the requirement, even if they don't keep the poison.</p>
 
-<p><b>Can I give Poison to an allied Objective?</b> No - Objectives cannot ever gain Poison, so you cannot give it to them.</p>
+<p><b>Can I give Poison to an allied Objective?</b> No - Objectives cannot ever gain Poison or any other condition, so you cannot give it to them.</p>
+
+<p><b>Can I give Poison to an ally that is immune to it, such as if I have a Living Corpse as a scenario ally?</b> Yes.</p>
 
 <p><b>Do I need Line of Sight to give poison to an ally?</b> No - "Give" is not in the list of targeted abilities, so would not require Line of Sight. Note, as always, that range cannot be counted through walls.</p>
 
@@ -768,7 +772,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <p><b>Nightmarish Affliction (3, bot) - How many times do I need to poison allies if I use this in combination with Delirium's Danse (X)?</b> Either two or three, depending on your preferred timing. If you add Stun to the top of Danse first, it's two total poisoned allies. If it's after, you'd need to poison a total of three allies.</p>
 
 <p><b>I have questions about the two check perk, Xorn's Propogation...</b></p> 
-<p>(1) Yes, you can control the monster even if it has already acted in the round - or if it died during its own turn. This happens immediately, inserted into the turn order, and the monster always performs its full card.</p>
+<p>(1) Yes, you can control the monster even if it has already acted in the round - or if it died during its own turn. This happens immediately after the conclusion of the ability that killed them, inserted into the turn order, and the monster always performs its full card.</p>
 <p>(2) Its elemental interactions are completely separate from the other monsters of its kind. If the ability card has bonuses for elemental consumption, it can consume elements to improve it - and won't benefit from any previous elemental consumptions. It will repeat any elemental infusions, as well. If the element is wild, it can be different from the rest of the monster set. If it infuses elements during your turn, elements still won't be available until after the end of your turn, like normal.</p>
 <p>(3) The monster still has any conditions it had; this controlled turn happens before it actually dies.</p>
 <p>(4) If the monster enters any traps or hazards while being controlled, it will remove any traps, and suffer any conditions from them, but can't take further damage.</p>
@@ -1097,6 +1101,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2026-02-10 - Added Fated Verses to top of FAQ. Summon Advantage ruling in 5.4. Sc56 clarification. Ruling on boneshaper advantage summon kill also added, sans reference to boneshaper.
 - 2026-03-05 - 3.8 monsters with same types on different factions, 5.2 clarifying damage negation source, Spellweaver Reviving Ether, added pq errata to pq section.
 - 2026-03-28 - Saw (4) and Cthulhu (1) clarifications on adding targets to certain attack abilities.
+- 2026-04-19 - Cthulhu clarifications, PQ clarification, and added clarification around red hex attacks and walls. (Settled rules, but frequently asked nevertheless.)
 
 <script>
 	function reveal(obj) {
