@@ -994,6 +994,8 @@ Items are listed by their item number.
 
 **Item 029** <span class="hidden"><b>Nimble Legguards - What do these do, if I am Invisible?</b> If you cannot be targeted by an enemy due to Invisbility, you cannot use this item to redirect an attack to yourself.</span>
 
+**Item 098** <span class="hidden"><b>Cloak of Phasing - Which hex do I loot with my end of turn looting?</b> It will be your original hex. End of turn looting happens after all abilities are completed, including 'end of turn' abilities like teleporting.</span>
+
 **Item 116 - How is this item unlocked?** You've unlocked it now, by reading this FAQ entry! The item was unlocked for all players via a Backerkit update on Sept 23, 2025. **Can I use the front side of this item if I already have disadvantage on an attack?** No; you cannot gain multiple instances of advantage or disadvantage on one attack, so cannot pay the "cost" to flip it. **Can I use the front of this item on an attack an ally grants to me?** Yes, but the item will not flip over until the end of your next turn, per its flip instructions.
 
 **Item 133** <span class="hidden"><b>Heart of the Betrayer - What does this item do?</b> Basically, instead of being attacked by the enemy, you can make them perform an Attack -1 on one of your other enemies. This can just be used to negate an attack, if that enemy is unable to make an attack, or if you don't want them to make an attack.</span>
@@ -1104,7 +1106,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2026-03-05 - 3.8 monsters with same types on different factions, 5.2 clarifying damage negation source, Spellweaver Reviving Ether, added pq errata to pq section.
 - 2026-03-28 - Saw (4) and Cthulhu (1) clarifications on adding targets to certain attack abilities.
 - 2026-04-19 - Cthulhu clarifications, PQ clarification, and added clarification around red hex attacks and walls. (Settled rules, but frequently asked nevertheless.)
-- 2026-05-24 - Three Spears clarification, along with Sc56 clarifications.
+- 2026-05-24 - Three Spears clarification, along with Sc56 clarifications. Item 098 question.
 
 <script>
 	function reveal(obj) {
