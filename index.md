@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN: SECOND EDITION (2025)**
 
-*Last Updated 2026-04-19*
+*Last Updated 2026-05-24*
 
 **READ THIS FIRST:** Preparation is the first step on the path to victory. Your wisdom in coming here before making a post on Reddit or BGG indicates a formidable destiny as a mercenary. 
 **Gain Item 116, Fated Verses** (your party may only gain this by referencing the FAQ once). 
@@ -517,7 +517,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **Scenario 44** <span class="hidden">The effects of the Elemental Tethers apply to any Demons from the beginning of the scenario until destroyed.</span>
 
-**Scenario 56 Errata and Clarification** <span class="hidden">The Gloom treats all x0/Null/Curse cards as +0, not as x0. The Gloom's Boss Specials 1 and 2 should say "a viable attack hex" instead of "an empty hex," choosing a non-negative hex when possible. For Special 1, if you have Ward or Shield, damage is reduced before splitting. If any of your allies also have Ward, it will trigger for them as well.</span> 
+**Scenario 56 Errata and Clarification** <span class="hidden">The Gloom treats all x0/Null/Curse cards as +0, not as x0. The Gloom's Boss Specials 1 and 2 should say "a viable attack hex" instead of "an empty hex," choosing a non-negative hex when possible. For Special 1, if you have Ward or Shield, damage is reduced before splitting. 'Allies' here refer to the target's allies. If any of those allies also have Ward, it will trigger for them as well. For Special 2, "you" refers to The Gloom having Ward.</span> 
 
 **Scenario 62** The map layout has Tile 06 with only slots and no tabs. The flat side should be laid adjacent to the other tiles, with the tab side facing out.
 
@@ -684,6 +684,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <summary><b>Three Spears Spoilers</b></summary>
 <br>
 <p><b>Can I spend supplies to refresh an item without a gold cost - such as a solo scenario item?</b> No; only items with gold costs printed on the item card can be refreshed with Supplies.</p>
+
+<p><b>Can I give one of my items to a Summon?</b> No; only characters may gain your items.</p>
 
 <p><b>If I am refreshing supplies to more than one target, does each get the total gold value in recovered items?</b> No; you have one pool of supplies, and must distribute the total among all targets.</p>
 
@@ -1102,6 +1104,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2026-03-05 - 3.8 monsters with same types on different factions, 5.2 clarifying damage negation source, Spellweaver Reviving Ether, added pq errata to pq section.
 - 2026-03-28 - Saw (4) and Cthulhu (1) clarifications on adding targets to certain attack abilities.
 - 2026-04-19 - Cthulhu clarifications, PQ clarification, and added clarification around red hex attacks and walls. (Settled rules, but frequently asked nevertheless.)
+- 2026-05-24 - Three Spears clarification, along with Sc56 clarifications.
 
 <script>
 	function reveal(obj) {
