@@ -871,6 +871,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>What happens to Medical Packs in other players' hands if Saw exhausts?</b> Medical packs already in other players' hands are unaffected by Saw exhausting.</p>
 
+<p><b>Can Medical Packs or Prescriptions be given to summons?</b> No. Your character board notes that only character allies can receive these. Summons don't have hands or active areas, and so cannot be valid targets of either ability.</p>
+
 <p><b>When do I evaluate if a monster is considered "damaged" for Vital Strikes or other abilities?</b> You evaluate this before you start performing your ability. For example, for Vaccine (X, top), you only gain a second target if the first monster is damaged before you begin your attack ability. For Prep for Surgery (X, top), you would only add Stun if the enemy was damaged before the attack. And so on.</p>
 
 <p><b>Prep for Surgery (X, bot) - Can I improve attacks or moves before turning them into heals?</b> You must decide whether to convert a move or attack ability into a heal ability before performing it; it cannot be improved except by effects that improve heals.</p>
@@ -1119,7 +1121,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2026-03-28 - Saw (4) and Cthulhu (1) clarifications on adding targets to certain attack abilities.
 - 2026-04-19 - Cthulhu clarifications, PQ clarification, and added clarification around red hex attacks and walls. (Settled rules, but frequently asked nevertheless.)
 - 2026-05-24 - Three Spears clarification, along with Sc56 clarifications. Item 098 question.
-- 2026-05-28 - Added Frosthaven Item Imports and Section 10.1.
+- 2026-05-28 - Added Frosthaven Item Imports and Section 10.1. Saw clarification.
 
 <script>
 	function reveal(obj) {
