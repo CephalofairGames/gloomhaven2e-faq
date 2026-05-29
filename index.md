@@ -1,8 +1,8 @@
 <link rel="stylesheet" href="override-markdown-styles.css"/>
 
-# **OFFICIAL FAQ FOR GLOOMHAVEN: SECOND EDITION (2025)**
+# **OFFICIAL FAQ FOR GLOOMHAVEN (2025) or SECOND EDITION**
 
-*Last Updated 2026-05-24*
+*Last Updated 2026-05-28*
 
 **READ THIS FIRST:** Preparation is the first step on the path to victory. Your wisdom in coming here before making a post on Reddit or BGG indicates a formidable destiny as a mercenary. 
 **Gain Item 116, Fated Verses** (your party may only gain this by referencing the FAQ once). 
@@ -56,6 +56,7 @@ Note there is a changelog in <a href="#page_11">Section 11</a> if you are lookin
 1. <a href="#page_9">Items (General)</a>
    1. <a href="#page_91">Items (Specific)</a>
 1. <a href="#page_10">Compatibility Notes for Crossover Characters</a>
+   1. <a href="#page_101">Frosthaven Crossover Items in Gloomhaven (2025)</a>
 1. <a href="#page_11">Changelog (beginning at v1.0)</a>
 
 ![divider](/assets/images/divider.png)
@@ -1020,7 +1021,7 @@ Any mechanic referring to either objectives, or obstacles with hit points, is re
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### Frosthaven characters in Gloomhaven: Second Edition and Jaws of the Lion
+### Frosthaven characters in Gloomhaven (2025) and Jaws of the Lion
 
 **General** - Make note of the event cards rule for Frosthaven Crossover Classes on pg 57 of the rulebook. If the name of a Frosthaven ancestry (Algox, Lurker, or Unfettered) appears anywhere in the narrative text of an event card, that card features a crossover outcome. If you are playing the matching ancestry, you may read the crossover outcome by referencing section XX.1, where XX is the event number (either city or road). Event cards that do not feature crossover outcomes are resolved normally.
 
@@ -1028,7 +1029,7 @@ Any mechanic referring to either objectives, or obstacles with hit points, is re
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### Gloomhaven: Second Edition characters in Frosthaven
+### Gloomhaven (2025) characters in Frosthaven
 
 **Silent Knife** - See the General Note at the top of this section for rules involving money vs. loot tokens. Any specific references to gold are unchanged.
 
@@ -1044,13 +1045,24 @@ Any mechanic referring to either objectives, or obstacles with hit points, is re
 
 ### Gloomhaven: Jaws of the Lion characters in other games
 
-Crossover character sheets can be found at [Cephalofair's website](https://cephalofair.com/pages/frosthaven). They are technically for Frosthaven, but will work for Gloomhaven: Second Edition as well.
+Crossover character sheets can be found at [Cephalofair's website](https://cephalofair.com/pages/frosthaven). They are technically for Frosthaven, but will work for Gloomhaven as well.
 
 **Demolitionist** - If you bring the Demolitionist into other games, and use the Level X Rubble card, you will need to bring destruction tokens over as well. When you (and only you) destroy any obstacle through items or abilities, place a destruction token in the hex(es) it previously occupied. Hexes with only destruction tokens are considered featureless, and the destruction token should be removed if a new overlay is placed in its hex.
 
 ### Other Characters in Jaws of the Lion
 
 If it is your first time playing, you should use the characters who came with the game. If you are bringing another mercenary into the intro scenarios, just pick 6 (or 8) of your cards when the other players are using their A/B cards, matching their hand sizes.
+
+<br>
+
+### <a name="page_101" class="page-number">10.1</a> Frosthaven Crossover Items in Gloomhaven (2025)
+
+Owners of Frosthaven can import some of the items from that game into the Gloomhaven available item supply at specific prosperity levels, assuming you have unlocked the item during your Frosthaven campaign:
+
+- Prosperity 3: 158, 159, 170, 171, 172, 173, 179, 183, 185, 186, 190, 195, 210, 211, 223, 228, 233, 235, 240, 243
+- Prosperity 5: 167, 169, 174, 175, 177, 180, 182, 187, 191, 192, 193, 197, 198, 204, 205, 208, 214, 221, 227, 229, 238, 239, 206, 178, 201
+- Prosperity 7: 162, 194, 199, 163, 181, 184, 188, 202, 203, 207, 209, 212, 215, 217, 218, 222, 224, 226, 234
+- Prosperity 9: 166, 151, 168, 189, 200, 213, 216, 219, 220, 225, 236, 237, 242, 244
 
 <br>
 
@@ -1107,6 +1119,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2026-03-28 - Saw (4) and Cthulhu (1) clarifications on adding targets to certain attack abilities.
 - 2026-04-19 - Cthulhu clarifications, PQ clarification, and added clarification around red hex attacks and walls. (Settled rules, but frequently asked nevertheless.)
 - 2026-05-24 - Three Spears clarification, along with Sc56 clarifications. Item 098 question.
+- 2026-05-28 - Added Frosthaven Item Imports and Section 10.1.
 
 <script>
 	function reveal(obj) {
