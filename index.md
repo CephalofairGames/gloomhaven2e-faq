@@ -1061,10 +1061,10 @@ If it is your first time playing, you should use the characters who came with th
 
 Owners of Frosthaven can import some of the items from that game into the Gloomhaven available item supply at specific prosperity levels, assuming you have unlocked the item during your Frosthaven campaign:
 
-- Prosperity 3: 158, 159, 170, 171, 172, 173, 179, 183, 185, 186, 190, 195, 210, 211, 223, 228, 233, 235, 240, 243
-- Prosperity 5: 167, 169, 174, 175, 177, 180, 182, 187, 191, 192, 193, 197, 198, 204, 205, 208, 214, 221, 227, 229, 238, 239, 206, 178, 201
-- Prosperity 7: 162, 194, 199, 163, 181, 184, 188, 202, 203, 207, 209, 212, 215, 217, 218, 222, 224, 226, 234
-- Prosperity 9: 166, 151, 168, 189, 200, 213, 216, 219, 220, 225, 236, 237, 242, 244
+- **Prosperity 3**: 158, 159, 170, 171, 172, 173, 179, 183, 185, 186, 190, 195, 210, 211, 223, 228, 233, 235, 240, 243
+- **Prosperity 5**: 167, 169, 174, 175, 177, 180, 182, 187, 191, 192, 193, 197, 198, 204, 205, 208, 214, 221, 227, 229, 238, 239, 206, 178, 201
+- **Prosperity 7**: 162, 194, 199, 163, 181, 184, 188, 202, 203, 207, 209, 212, 215, 217, 218, 222, 224, 226, 234
+- **Prosperity 9**: 166, 151, 168, 189, 200, 213, 216, 219, 220, 225, 236, 237, 242, 244
 
 <br>
 
