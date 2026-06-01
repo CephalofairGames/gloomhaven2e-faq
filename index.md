@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN (2025) or SECOND EDITION**
 
-*Last Updated 2026-05-28*
+*Last Updated 2026-06-01*
 
 **READ THIS FIRST:** Preparation is the first step on the path to victory. Your wisdom in coming here before making a post on Reddit or BGG indicates a formidable destiny as a mercenary. 
 **Gain Item 116, Fated Verses** (your party may only gain this by referencing the FAQ once). 
@@ -498,7 +498,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **This scenario has a boss with a number of health thresholds. What happens if we reduce a boss below two of these at once - or even all the way to 0 health?** The first pending section must be resolved before anything else can happen, and the boss isn't considered dead yet. Generally, these sections will reset the boss's health to a certain amount; the intent is that they can't be killed by a single strong attack. The section (or first section if there's more than one) needs to be resolved before anything else.
 
-**Do I need to kill enemies that have not yet spawned in order to beat a scenario with a goal of "When all enemies in it are dead"?** Yes. Enemies on set spawns for specific rounds are still considered "in the scenario" and must be defeated in order to fulfill that win condition.
+**What does "When all enemies in it are dead" mean?** This means all enemies in all rooms, as well as all enemies in set spawn tables. Enemies on set spawns for specific rounds are still considered "in the scenario" and must be defeated in order to fulfill that win condition.
 
 **Does Escaping count as "leaving a room" for battle goals?** Yes. Escaping is considered leaving a room.
 
@@ -1122,6 +1122,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2026-04-19 - Cthulhu clarifications, PQ clarification, and added clarification around red hex attacks and walls. (Settled rules, but frequently asked nevertheless.)
 - 2026-05-24 - Three Spears clarification, along with Sc56 clarifications. Item 098 question.
 - 2026-05-28 - Added Frosthaven Item Imports and Section 10.1. Saw clarification.
+- 2026-06-01 - Slight tweak to wording in Scenario General
 
 <script>
 	function reveal(obj) {
