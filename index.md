@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN (2025) or SECOND EDITION**
 
-*Last Updated 2026-06-01*
+*Last Updated 2026-07-14*
 
 **READ THIS FIRST:** Preparation is the first step on the path to victory. Your wisdom in coming here before making a post on Reddit or BGG indicates a formidable destiny as a mercenary. 
 **Gain Item 116, Fated Verses** (your party may only gain this by referencing the FAQ once). 
@@ -837,6 +837,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <p><b>Requires Line of Sight: </b>Mobilizing Measure (1), Dissonant Rhythym (1), Soothing Lullaby (2), Alluring Serenade (4), Captivating Performance (9)</p>
 <p><b>Doesn't Require Line of Sight: </b>Bewildering Instrumental (1), Wearying Chant (1), Power Ballad (1), Defensive Ditty (X), Echoing Aria (X), Ode to the Gambler (3), Thrilling Solo (5), Disorienting Dirge (6), Wistful Wounding (7), Toughening Trill (8)</p>
 
+<p><b>For the "Replace one -1 card with one +0 Skip moving your character tokens on active Songs at the end of this round" perk, can I choose to apply this effect to only some of my songs?</b> No; it's all or nothing.</p> 
+
 <p><b>How does my second non-AMD perk (Carry a Tune) work?</b> Whenever you play a Song action, it wipes all your notes, even ones that weren't used for that song. This perk effectively "refunds" you one note that you didn't need for that song, which would otherwise be wasted.</p> 
 
 </details>
@@ -1021,6 +1023,10 @@ If a mechanic refers to loot tokens or money tokens, it can refer to either, bas
 
 Any mechanic referring to either objectives, or obstacles with hit points, is referring to either.
 
+### Gloomhaven and Mercenary Pack Solo Scenarios in Frosthaven
+
+For all solo scenarios played during a Frosthaven campaign with crossover characters, use a loot deck of 15 coin cards.
+
 ![divider-narrow](/assets/images/divider2.png)
 
 ### Frosthaven characters in Gloomhaven (2025) and Jaws of the Lion
@@ -1123,6 +1129,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2026-05-24 - Three Spears clarification, along with Sc56 clarifications. Item 098 question.
 - 2026-05-28 - Added Frosthaven Item Imports and Section 10.1. Saw clarification.
 - 2026-06-01 - Slight tweak to wording in Scenario General
+- 2026-07-14 - Crossover Solo scenario loot deck in Frosthaven; Note perk clarification
 
 <script>
 	function reveal(obj) {
