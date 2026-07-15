@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN (2025) or SECOND EDITION**
 
-*Last Updated 2026-07-14*
+*Last Updated 2026-07-15*
 
 **READ THIS FIRST:** Preparation is the first step on the path to victory. Your wisdom in coming here before making a post on Reddit or BGG indicates a formidable destiny as a mercenary. 
 **Gain Item 116, Fated Verses** (your party may only gain this by referencing the FAQ once). 
@@ -954,7 +954,10 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>Do I need line of sight to the summon I'm swapping with for my Disperse and Coalesce perk?</b> Yes; any time you're teleporting another figure, it follows the rules for forced movement, and is therefore targeted. As an additional note, you cannot swap with a flying summon that's occupying an obstacle hex you could not, yourself, occupy - teleporting requires valid destination hexes.</p>
 
+<p><b>Do abilities from items count for my first Mastery?</b> No, it has to be from your ability cards.</p>
+
 <p><b>Can I just start with my second Mastery already checked?</b> It's up to you - but do you <i>really</i> think you deserve it?</p>
+
 
 <p>Spoiler related to the Imbuement mechanic, once unlocked:</p> 
 <p><span class="hidden"><b>Deflecting Blades (1, bot) - Will this negate any conditions on the monster's positive modifier card?</b> No; if the modifier is positive and has an effect, it will be +0 with the effect.</span></p>
@@ -1130,6 +1133,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2026-05-28 - Added Frosthaven Item Imports and Section 10.1. Saw clarification.
 - 2026-06-01 - Slight tweak to wording in Scenario General
 - 2026-07-14 - Crossover Solo scenario loot deck in Frosthaven; Note perk clarification
+- 2026-07-15 - Crossed Swords Mastery question
 
 <script>
 	function reveal(obj) {
