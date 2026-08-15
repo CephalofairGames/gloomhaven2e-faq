@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN (2025) or SECOND EDITION**
 
-*Last Updated 2026-07-15*
+*Last Updated 2026-08-15*
 
 **READ THIS FIRST:** Preparation is the first step on the path to victory. Your wisdom in coming here before making a post on Reddit or BGG indicates a formidable destiny as a mercenary. 
 **Gain Item 116, Fated Verses** (your party may only gain this by referencing the FAQ once). 
@@ -516,6 +516,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **Scenario 27, Section 10.1 Errata** <span class="hidden">This should add Event R-37 in addition to R-38.</span>
 
+**Scenario 29** <span class="hidden">If a flying figure is occupying a perch, the Drake cannot move to it. It will still move to whichever (legal) perch gets it the most enemies, however.</span>
+
 **Scenario 44** <span class="hidden">The effects of the Elemental Tethers apply to any Demons from the beginning of the scenario until destroyed.</span>
 
 **Scenario 56 Errata and Clarification** <span class="hidden">The Gloom treats all x0/Null/Curse cards as +0, not as x0. The Gloom's Boss Specials 1 and 2 should say "a viable attack hex" instead of "an empty hex," choosing a non-negative hex when possible. For Special 1, if you have Ward or Shield, damage is reduced before splitting. 'Allies' here refer to the target's allies. If any of those allies also have Ward, it will trigger for them as well. For Special 2, "you" refers to The Gloom having Ward.</span> 
@@ -833,7 +835,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>Pull the Strings (6, top) - If I add another target to this effect, will they also perform a controlled move?</b> Yes.</p> 
 
-<p><b>How do my Songs work with Line of Sight?</b> If your Songs have you performing targeted abilities, they require line of sight. Here, that would include Attack, Heal, Grant, Condition (without 'gains'), or Forced Movement. Other effects, like bonuses, suffer damage, and anything phrased as 'gains', don't.</p>
+<p><b>How do my Songs work with Line of Sight?</b> If your Songs have you performing targeted abilities, they require line of sight. Here, that would include Attack, Heal, Grant, Condition (without 'gains'), or Forced Movement. Other effects, like bonuses, suffer damage, and anything phrased as 'gains', don't. Note that if the specified target of an ability (closest enemy, for example) is out of your line of sight for a targeted Song, you'd skip the targeted ability for the round.</p>
 <p><b>Requires Line of Sight: </b>Mobilizing Measure (1), Dissonant Rhythym (1), Soothing Lullaby (2), Alluring Serenade (4), Captivating Performance (9)</p>
 <p><b>Doesn't Require Line of Sight: </b>Bewildering Instrumental (1), Wearying Chant (1), Power Ballad (1), Defensive Ditty (X), Echoing Aria (X), Ode to the Gambler (3), Thrilling Solo (5), Disorienting Dirge (6), Wistful Wounding (7), Toughening Trill (8)</p>
 
@@ -1134,6 +1136,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2026-06-01 - Slight tweak to wording in Scenario General
 - 2026-07-14 - Crossover Solo scenario loot deck in Frosthaven; Note perk clarification
 - 2026-07-15 - Crossed Swords Mastery question
+- 2026-08-15 - Sc29 clarification, small note on Note.
 
 <script>
 	function reveal(obj) {
