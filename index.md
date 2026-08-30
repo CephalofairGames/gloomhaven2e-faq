@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN (2025) or SECOND EDITION**
 
-*Last Updated 2026-08-15*
+*Last Updated 2026-08-30*
 
 **READ THIS FIRST:** Preparation is the first step on the path to victory. Your wisdom in coming here before making a post on Reddit or BGG indicates a formidable destiny as a mercenary. 
 **Gain Item 116, Fated Verses** (your party may only gain this by referencing the FAQ once). 
@@ -523,6 +523,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 **Scenario 56 Errata and Clarification** <span class="hidden">The Gloom treats all x0/Null/Curse cards as +0, not as x0. The Gloom's Boss Specials 1 and 2 should say "a viable attack hex" instead of "an empty hex," choosing a non-negative hex when possible. For Special 1, if you have Ward or Shield, damage is reduced before splitting. 'Allies' here refer to the target's allies. If any of those allies also have Ward, it will trigger for them as well. For Special 2, "you" refers to The Gloom having Ward.</span> 
 
 **Scenario 62** The map layout has Tile 06 with only slots and no tabs. The flat side should be laid adjacent to the other tiles, with the tab side facing out.
+
+**Scenario 63** <span class="hidden">Inactive enemies are still present in the scenario, and count for adjacency purposes when appropriate.</span>
 
 **Scenario 80** There aren't enough Stone Colossus standees for a 4-player setup. Proxy another standee for the 5th.
 
@@ -1136,7 +1138,8 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2026-06-01 - Slight tweak to wording in Scenario General
 - 2026-07-14 - Crossover Solo scenario loot deck in Frosthaven; Note perk clarification
 - 2026-07-15 - Crossed Swords Mastery question
-- 2026-08-15 - Sc29 clarification, small note on Note.
+- 2026-08-15 - Sc29 clarification, small note on Note
+- 2026-08-30 - Sc63 clarification
 
 <script>
 	function reveal(obj) {
