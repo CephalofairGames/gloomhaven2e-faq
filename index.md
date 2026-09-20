@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN (2025) or SECOND EDITION**
 
-*Last Updated 2026-08-30*
+*Last Updated 2026-09-20*
 
 **READ THIS FIRST:** Preparation is the first step on the path to victory. Your wisdom in coming here before making a post on Reddit or BGG indicates a formidable destiny as a mercenary. 
 **Gain Item 116, Fated Verses** (your party may only gain this by referencing the FAQ once). 
@@ -288,7 +288,7 @@ Most of these questions were asked by the community. If you have a question that
 
 **Does moving back and forth between two hexes count as moving?** Yes. While there is no such thing as a Move 0, you can still end up in your origin hex if you have sufficient movement.
 
-![divider-narrow](/assets/images/divider2.png)
+![divider-narrow](/assets/images/divider2.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/gloomhaven2e-faq/#top)
 
 ### <a name="page_52" class="page-number">5.2</a> Damage, Shield, and Ward
 
@@ -304,7 +304,7 @@ Most of these questions were asked by the community. If you have a question that
 
 **If damage is redirected from one figure to another via an ability or effect, what is the source of the damage?** The original source of the damage is not "remembered"; the source of the damage becomes the effect that redirected it. 
 
-![divider-narrow](/assets/images/divider2.png)
+![divider-narrow](/assets/images/divider2.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/gloomhaven2e-faq/#top)
 
 ### <a name="page_53" class="page-number">5.3</a> Attack Modifier Draws, Advantage, and Disadvantage
 
@@ -338,7 +338,7 @@ Examples:
 
 **If my Summon has Advantage for their attack, do I get to pick which terminal modifier is used for the attack?** Yes, you do, even if it is a normal attack using monster focus rules.
 
-![divider-narrow](/assets/images/divider2.png)
+![divider-narrow](/assets/images/divider2.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/gloomhaven2e-faq/#top)
 
 ### <a name="page_54" class="page-number">5.4</a> Conditions
 
@@ -354,7 +354,7 @@ Examples:
 
 **Can you explain how Curse is a negative condition? Are Curse cards in my modifier deck also negative conditions?** When you are targeted by a Curse ability, you only momentarily have the Curse condition. This is long enough for you to block it with an item or Safeguard, or for it to be blocked by a monster's Curse immunity. It's otherwise removed instantly when a Curse card is added to your remaining attack modifier deck. Once the Curse card is in an attack modifier deck, the Curse is no longer considered a negative condition.
 
-![divider-narrow](/assets/images/divider2.png)
+![divider-narrow](/assets/images/divider2.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/gloomhaven2e-faq/#top)
 
 ### <a name="page_55" class="page-number">5.5</a> General Player Ability Questions and Clarifications
 
@@ -401,7 +401,7 @@ Examples:
 
 **Which elemental infusions are mandatory? Can any be skipped?** If an elemental infusion is not in a mandatory (!) box, it can be skipped. 
 
-![divider-narrow](/assets/images/divider2.png)
+![divider-narrow](/assets/images/divider2.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/gloomhaven2e-faq/#top)
 
 ### <a name="page_56" class="page-number">5.6</a> Coin and Loot Questions
 
@@ -415,7 +415,7 @@ Examples:
 
 **What happens to coins Looted by enemies?** They get returned to the scenario supply. They do not count against the 25 coin loot limit.
 
-![divider-narrow](/assets/images/divider2.png)
+![divider-narrow](/assets/images/divider2.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/gloomhaven2e-faq/#top)
 
 ### <a name="page_57" class="page-number">5.7</a> Objectives
 
@@ -429,7 +429,7 @@ Examples:
 
 **If an Objective occupies more than one hex, can I target the hex furthest from me? Say, if I'm adjacent to one hex, can I target my ranged attack at a non-adjacent one to avoid disadvantage? Or to avoid melee Retaliate?** Yes and No. Even though the Objective occupies more than one hex, it's still just one figure, so if you are adjacent to it you'll still have Disadvantage and/or suffer Retaliate. But, with that said, all hexes of the Objective are targetable, for red hex patterns or other purposes. 
 
-![divider-narrow](/assets/images/divider2.png)
+![divider-narrow](/assets/images/divider2.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/gloomhaven2e-faq/#top)
 
 ### <a name="page_58" class="page-number">5.8</a> Monster Focus, Abilities, and Stats
 
@@ -461,7 +461,7 @@ Examples:
 
 **If there are two sets of identical monsters (say, Inox Guards as enemies and City Guards as allies), do they each draw their own ability card?** Unless the scenario rules state otherwise, they share the same card, and allies will act before enemies.
 
-![divider-narrow](/assets/images/divider2.png)
+![divider-narrow](/assets/images/divider2.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/gloomhaven2e-faq/#top)
 
 ### <a name="page_59" class="page-number">5.9</a> Scenario Allies
 
