@@ -90,11 +90,7 @@ Most of these questions were asked by the community. If you have a question that
 - [Gloomhaven Second Edition Puzzle Book Hint Guide](https://cephalofairgames.github.io/Gloomhaven-2e-Puzzle-Book-Hint-Guide/) - An official hint and solution guide for the Town Records/Puzzle Book for Gloomhaven: Second Edition.
 - [Frosthaven FAQ](https://cephalofairgames.github.io/frosthaven-faq/) - The Frosthaven FAQ for that game.
 
-![divider](/assets/images/divider.png)
-
-<a href="#top"><sub>top</sub></a>
-
-[![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/gloomhaven2e-faq/#top)
+![divider](/assets/images/divider.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/gloomhaven2e-faq/#top)
 
 ##  <a name="page_01" class="page-number">1.0</a> Errata
 
@@ -150,7 +146,7 @@ Most of these questions were asked by the community. If you have a question that
 
 **Solo Scenarios, Saw** - "The City Guards do not perform turns as normal." is missing from the special rules.
 
-![divider](/assets/images/divider.png)
+![divider](/assets/images/divider.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/gloomhaven2e-faq/#top)
 
 ## <a name="page_2" class="page-number">2.0</a> Component and First Time Setup Questions
 
