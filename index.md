@@ -10,7 +10,7 @@
 **For information about this FAQ, including how to ask questions of your own, see <a href="#page_0">Section 0</a>.** 
 Note there is a changelog in <a href="#page_11">Section 11</a> if you are looking for recent rulings.
 
-Clicking the Push icon [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/frosthaven-faq/) anywhere will return you to the top of this document.
+Clicking the Push icon [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/gloomhaven2e-faq/#top) anywhere will return you to the top of this document.
 
 ### <a name="top" class="page-number">Table of Contents</a>
 
