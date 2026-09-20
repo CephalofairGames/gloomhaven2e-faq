@@ -10,6 +10,7 @@
 **For information about this FAQ, including how to ask questions of your own, see <a href="#page_0">Section 0</a>.** 
 Note there is a changelog in <a href="#page_11">Section 11</a> if you are looking for recent rulings.
 
+### <a name="top" class="page-number">Table of Contents</a>
 
 1. <a href="#page_01">Errata</a>
 1. <a href="#page_2">Component and Setup Questions</a>
@@ -90,6 +91,8 @@ Most of these questions were asked by the community. If you have a question that
 - [Frosthaven FAQ](https://cephalofairgames.github.io/frosthaven-faq/) - The Frosthaven FAQ for that game.
 
 ![divider](/assets/images/divider.png)
+
+<a href="#top"><sub>top</sub></a>
 
 ##  <a name="page_01" class="page-number">1.0</a> Errata
 
