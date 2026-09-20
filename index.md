@@ -160,7 +160,7 @@ Most of these questions were asked by the community. If you have a question that
 
 **How many of the Personal Quests are added when I begin the campaign?** You start with Personal Quests 01-11, shuffled to create the Available deck. The remainder will become available later, or used for Inspiration retirements.
 
-![divider](/assets/images/divider.png)
+![divider](/assets/images/divider.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/gloomhaven2e-faq/#top)
 
 ## <a name="page_3" class="page-number">3.0</a> General Gameplay Questions (Non-Scenario)
 
@@ -227,7 +227,7 @@ Most of these questions were asked by the community. If you have a question that
 
 **City Event 51** can be added in two different places. If you're instructed to add it and it's already been added (or removed from the deck after being added), do nothing.
 
-![divider](/assets/images/divider.png)
+![divider](/assets/images/divider.png)  [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/gloomhaven2e-faq/#top)
 
 ## <a name="page_4" class="page-number">4.0</a> City General Questions
 **How does the Prosperity track work? What are the grey boxes? Do I need to check the big boxes with numbers?** The grey boxes are just there for help counting; they appear every 5 boxes. You need to mark off the big box with the new Prosperity Level below it to actually increase to that Prosperity.
@@ -260,7 +260,7 @@ Most of these questions were asked by the community. If you have a question that
 
 **Reward Section 133.2** <span class="hidden">Note that scenario xp rewards (that is, xp rewards noted in the gold "Rewards" box) are not doubled, and that "completed" means a successful scenario. This is not triggered (and therefore wasted) on a failed scenario.</span>
 
-![divider](/assets/images/divider.png)
+![divider](/assets/images/divider.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/gloomhaven2e-faq/#top)
 
 ## <a name="page_5" class="page-number">5.0</a> General Gameplay Questions (Scenario)
 
@@ -467,14 +467,14 @@ Examples:
 
 **I have a Scenario Ally (or enemy) who "can't be interacted with." What does this mean?** A figure who "can't be interacted with" occupies their space. They can be moved through by allies, but not by enemies. They cannot be targeted by any attacks or abilities, cannot be damaged, and will never draw focus. They are affected normally by obstacles and difficult terrain - but do not treat traps or hazardous terrain as negative hexes. They do not spring traps and cannot be affected by them. They cannot be used for anything that counts allies or ally positioning except things explicitly called out in the scenario rules.
 
-![divider-narrow](/assets/images/divider.png)
+![divider-narrow](/assets/images/divider.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/gloomhaven2e-faq/#top)
 
 ## <a name="page_6" class="page-number">6.0</a> Monster Questions
 
 ### This space is currently empty. 
 
 
-![divider](/assets/images/divider.png)
+![divider](/assets/images/divider.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/gloomhaven2e-faq/#top)
 
 ## <a name="page_7" class="page-number">7.0</a> General Scenario Questions
 
@@ -543,7 +543,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **Saw Solo Scenario Errata** - "The City Guards do not perform turns as normal." is missing from the special rules.
 
-![divider](/assets/images/divider.png)
+![divider](/assets/images/divider.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/gloomhaven2e-faq/#top)
 
 ## <a name="page_8" class="page-number">8.0</a> Characters
 
@@ -561,7 +561,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **Patch Armor (two-check Loot perk) - What is the icon? It isn't defined in the rulebook.** This is an older "Recover" icon from the original Gloomhaven. This perk allows you to recover either a spent or lost chest slot item.
 
-![divider-narrow](/assets/images/divider2.png)
+![divider-narrow](/assets/images/divider2.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/gloomhaven2e-faq/#top)
 
 ### ![Tinkerer Icon](/assets/images/02_tinkerer.png) <a name="page_802" class="page-number">8.2</a> Tinkerer
 
@@ -581,7 +581,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **For my Alchemical Duplication perk, can I share a potion that has already been consumed?** No; you must still have the potion available for your ally to use it.
 
-![divider-narrow](/assets/images/divider2.png)
+![divider-narrow](/assets/images/divider2.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/gloomhaven2e-faq/#top)
 
 ### ![Spellweaver Icon](/assets/images/03_spellweaver.png) <a name="page_803" class="page-number">8.3</a> Spellweaver
 
@@ -601,7 +601,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **If I have Safeguard when I use my Crystalline Stasis (stun/invisible self) perk, what happens?** You still gain Invisible, but the Stun will be blocked by the Safeguard.
 
-![divider-narrow](/assets/images/divider2.png)
+![divider-narrow](/assets/images/divider2.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/gloomhaven2e-faq/#top)
 
 ### ![Silent Knife Icon](/assets/images/04_silent_knife.png) <a name="page_804" class="page-number">8.4</a> Silent Knife
 
@@ -613,7 +613,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **Watch it Burn (9, bot) - Can I play this on a turn in which I long rest?** Yes; the parenthetical text about 'two cards you played' is a rules reminder, not a limitation.
 
-![divider-narrow](/assets/images/divider2.png)
+![divider-narrow](/assets/images/divider2.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/gloomhaven2e-faq/#top)
 
 ### ![Cragheart Icon](/assets/images/05_cragheart.png) <a name="page_805" class="page-number">8.5</a> Cragheart
 
@@ -635,7 +635,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **Tremors (enemy movement) Perk - Is this done before or after ability cards are drawn for the new room's enemies?** These Control abilities are performed after ability cards are flipped for newly revealed enemies. If you opened the door, they are done before your turn ends.
 
-![divider-narrow](/assets/images/divider2.png)
+![divider-narrow](/assets/images/divider2.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/gloomhaven2e-faq/#top)
 
 ### ![Mindthief Icon](/assets/images/06_mindthief.png) <a name="page_806" class="page-number">8.6</a> Mindthief
 
@@ -655,7 +655,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **How does my second mastery (Augments) work? What counts as 'triggering' the effects?** The augment must add something to the attack in order to count. For most Augments, this just means "make a melee attack while it's active" - you don't need to actually apply conditions, use your added reach, etc. There are three exceptions - Feedback Loop (X) and Phantasmal Killer (9) require you to perform the Grant/Control ability, and for the target to attack an enemy. (You cannot grant an attack to a figure who can't make the attack; rulebook p31.) For Silent Scream (4), the Heal ability must be performed, but because you can target yourself with it, that should rarely be an issue.
 
-![divider-narrow](/assets/images/divider2.png)
+![divider-narrow](/assets/images/divider2.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/gloomhaven2e-faq/#top)
 
 ### ![Sun](/assets/images/07_sun.png) <a name="page_807" class="page-number">8.7</a> "Sun"
 
@@ -682,7 +682,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 </details>
 <br>
 
-![divider-narrow](/assets/images/divider2.png)
+![divider-narrow](/assets/images/divider2.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/gloomhaven2e-faq/#top)
 
 ### ![Three Spears Icon](/assets/images/08_three_spears.png) <a name="page_808" class="page-number">8.8</a> "Three Spears"
 
@@ -702,7 +702,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 </details>
 <br>
 
-![divider-narrow](/assets/images/divider2.png)
+![divider-narrow](/assets/images/divider2.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/gloomhaven2e-faq/#top)
 
 ### ![Circles Icon](/assets/images/09_circles.png) <a name="page_809" class="page-number">8.9</a> "Circles"
 
@@ -726,7 +726,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 </details>
 <br>
 
-![divider-narrow](/assets/images/divider2.png)
+![divider-narrow](/assets/images/divider2.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/gloomhaven2e-faq/#top)
 
 ### ![Eclipse Icon](/assets/images/10_eclipse.png) <a name="page_810" class="page-number">8.10</a> "Eclipse"
 
@@ -754,7 +754,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 </details>
 <br>
 
-![divider-narrow](/assets/images/divider2.png)
+![divider-narrow](/assets/images/divider2.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/gloomhaven2e-faq/#top)
 
 ### ![Cthulhu Icon](/assets/images/11_cthulhu.png) <a name="page_811" class="page-number">8.11</a> "Cthulhu" or "Squid Face" or "Bug Face"
 
@@ -789,7 +789,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 </details>
 <br>
 
-![divider-narrow](/assets/images/divider2.png)
+![divider-narrow](/assets/images/divider2.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/gloomhaven2e-faq/#top)
 
 ### ![Lightning Bolts Icon](/assets/images/12_lightning_bolts.png) <a name="page_812" class="page-number">8.12</a> "Lightning Bolts"
 
@@ -813,7 +813,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 </details>
 <br>
 
-![divider-narrow](/assets/images/divider2.png)
+![divider-narrow](/assets/images/divider2.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/gloomhaven2e-faq/#top)
 
 ### ![Music Note Icon](/assets/images/13_music_note.png) <a name="page_813" class="page-number">8.13</a> "Music Note"
 
@@ -849,7 +849,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 </details>
 <br>
 
-![divider-narrow](/assets/images/divider2.png)
+![divider-narrow](/assets/images/divider2.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/gloomhaven2e-faq/#top)
 
 ### ![Angry Face Icon](/assets/images/14_angry_face.png) <a name="page_814" class="page-number">8.14</a> "Angry Face"
 
@@ -867,7 +867,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 </details>
 <br>
 
-![divider-narrow](/assets/images/divider2.png)
+![divider-narrow](/assets/images/divider2.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/gloomhaven2e-faq/#top)
 
 ### ![Saw Icon](/assets/images/15_saw.png) <a name="page_815" class="page-number">8.15</a> "Saw"
 
@@ -893,7 +893,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 </details>
 <br>
 
-![divider-narrow](/assets/images/divider2.png)
+![divider-narrow](/assets/images/divider2.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/gloomhaven2e-faq/#top)
 
 ### ![Triangles Icon](/assets/images/16_triangles.png) <a name="page_816" class="page-number">8.16</a> "Triangles"
 
@@ -912,7 +912,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 </details>
 <br>
 
-![divider-narrow](/assets/images/divider2.png)
+![divider-narrow](/assets/images/divider2.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/gloomhaven2e-faq/#top)
 
 ### ![Two Minis Icon](/assets/images/17_two_minis.png) <a name="page_817" class="page-number">8.17</a> "Two Minis"
 
@@ -940,7 +940,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 </details>
 <br>
 
-![divider-narrow](/assets/images/divider2.png)
+![divider-narrow](/assets/images/divider2.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/gloomhaven2e-faq/#top)
 
 ### ![Crossed Swords Icon](/assets/images/18_crossed_swords.png) <a name="page_818" class="page-number">8.18</a> "Crossed Swords"
 
@@ -971,7 +971,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <br>
 
 
-![divider](/assets/images/divider.png)
+![divider](/assets/images/divider.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/gloomhaven2e-faq/#top)
 
 ## <a name="page_9" class="page-number">9.0</a> Items (General)
 
@@ -1019,7 +1019,7 @@ Items are listed by their item number.
 
 <br>
 
-![divider](/assets/images/divider.png)
+![divider](/assets/images/divider.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/gloomhaven2e-faq/#top)
 <br>
 ## <a name="page_10" class="page-number">10.0</a> Compatibility Notes for Crossover Characters
 
@@ -1141,6 +1141,9 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2026-07-15 - Crossed Swords Mastery question
 - 2026-08-15 - Sc29 clarification, small note on Note
 - 2026-08-30 - Sc63 clarification
+- 2026-09-20 - Added Return to Top navigation buttons on all major and some minor dividers.
+
+[![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/gloomhaven2e-faq/#top)
 
 <script>
 	function reveal(obj) {
