@@ -94,7 +94,7 @@ Most of these questions were asked by the community. If you have a question that
 
 <a href="#top"><sub>top</sub></a>
 
-[![Return to Top](assets/images/top.png)](https://cephalofairgames.github.io/gloomhaven2e-faq/#top)
+[![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/gloomhaven2e-faq/#top)
 
 ##  <a name="page_01" class="page-number">1.0</a> Errata
 
