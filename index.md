@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN (2025) or SECOND EDITION**
 
-*Last Updated 2026-09-20*
+*Last Updated 2026-10-05*
 
 **READ THIS FIRST:** Preparation is the first step on the path to victory. Your wisdom in coming here before making a post on Reddit or BGG indicates a formidable destiny as a mercenary. 
 **Gain Item 116, Fated Verses** (your party may only gain this by referencing the FAQ once). 
@@ -382,6 +382,8 @@ Examples:
 
 **I have an attack modifier that gives me a Shield. How long does this last?** Attack modifiers with a Shield on them will last from the time they're drawn until the end of the round.
 
+**What does "Closer" or "Closest" mean when it appears in an ability?** Except for Move abilities, "closeness" is determined by range or proximity. For Move abilities, it's determined by movement path. 
+
 **What does "adjacent" mean when we're talking about placing or triggering an overlay in an occupied hex?** The general rule is that a figure's own hex is considered adjacent to them for their own targeting purposes - however, their targets' own hexes are not adjacent to them. So if you were placing an overlay in a hex adjacent to yourself, you could target your own hex as long as it meets all the criteria for the ability. However, if you were placing it adjacent to another figure, it would have to be in one of the six hexes around them and not directly underneath them.
 
 **What's the difference between "Allies gain..." or "Allies add..." and "Grant allies..." when it comes to shield, retaliate, etc.?** A persistent or round bonus which says "Allies gain..." or "Allies add..." is performed by you, and only applies to allies who presently fit the condition when they would use it; usually this has a range limitation. On the other hand, a Grant lets the ally perform the ability - and once granted, it's theirs for the duration. In short -
@@ -510,6 +512,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 ### <a name="page_71" class="page-number">7.1</a> Specific Scenario Questions
 
 **Scenario 5** <span class="hidden">Hail will not move if she does not have a valid path towards (b) or towards the next door.</span>
+
+**Scenario 8, Section 22.3** <span class="hidden">The doors are not locked, and can be opened by players. If a door has already been opened when the Bandit Commander would jump to open it, he will skip the move ability.</span>
 
 **Scenario 11** <span class="hidden">The cultists can move onto, and thereby open, closed doors in this scenario.</span>
 
@@ -1144,6 +1148,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2026-08-15 - Sc29 clarification, small note on Note
 - 2026-08-30 - Sc63 clarification
 - 2026-09-20 - Added Return to Top navigation buttons on all major and some minor dividers.
+- 2026-10-05 - Added definiton of "closeness" to 5.5. Added clarification for Scenario 8.
 
 [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/gloomhaven2e-faq/#top)
 
