@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN (2025) or SECOND EDITION**
 
-*Last Updated 2026-10-05*
+*Last Updated 2026-10-12*
 
 **READ THIS FIRST:** Preparation is the first step on the path to victory. Your wisdom in coming here before making a post on Reddit or BGG indicates a formidable destiny as a mercenary. 
 **Gain Item 116, Fated Verses** (your party may only gain this by referencing the FAQ once). 
@@ -721,7 +721,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>Planar Protection (1, bot) - I control the Grant Shield ability on this summon. Can it target only its own allies, or only my allies?</b> It is still performing the Grant. It can only target its allies.</p>
 
-<p><b>Living Mountain (5, top) - Does the +1 to heals also affect the Heal 1 Self the Rock Colossus performs at the end of each of its turns?</b> Yes; it's still a heal targeting it.</p>
+<p><b>Living Mountain (5, top) - Does the +1 to heals also affect the Heal 1 Self the Rock Colossus performs at the end of each of its turns?</b> Yes; it's still a heal targeting it. <b>Is the Muddle applied on the Rock Colossus's attacks, or on its retaliate?</b> It affects the summon's attacks. Retaliate in Gloomhaven (2025) never applies conditions.</p>
 
 <p><b>Oozing Manifestation (6, top) - What is going on here?</b> The Slime Spirit will not die from damage the first time it otherwise would. Instead, it will "split" by summoning another Slime Spirit in an adjacent hex. Once this happens, neither Slime Spirit has any protection from dying, because your character token is on the card.</p>
 
@@ -1149,6 +1149,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2026-08-30 - Sc63 clarification
 - 2026-09-20 - Added Return to Top navigation buttons on all major and some minor dividers.
 - 2026-10-05 - Added definiton of "closeness" to 5.5. Added clarification for Scenario 8.
+- 2026-10-12 - Circles Level 5 card additional clarification.
 
 [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/gloomhaven2e-faq/#top)
 
