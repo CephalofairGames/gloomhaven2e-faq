@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN (2025) or SECOND EDITION**
 
-*Last Updated 2026-10-12*
+*Last Updated 2026-11-03*
 
 **READ THIS FIRST:** Preparation is the first step on the path to victory. Your wisdom in coming here before making a post on Reddit or BGG indicates a formidable destiny as a mercenary. 
 **Gain Item 116, Fated Verses** (your party may only gain this by referencing the FAQ once). 
@@ -623,6 +623,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 ### ![Cragheart Icon](/assets/images/05_cragheart.png) <a name="page_805" class="page-number">8.5</a> Cragheart
 
+**General note on use of obstacles** - You cannot remove an obstacle that you are using for another purpose during one Action (that is, card half). ("Used by" includes being counted for bonuses, used as an attack origin, removed as a cost, destroyed for a bonus, etc. For example, if you have the Stone Pummel (5, bot) persistent active, you cannot remove an obstacle you are counting for Brutal Momentum (7, top).
+
 **Heaving Swing (X, top) - How does this interact with two- or three-hex obstacles?** The obstacle is completely destroyed when the target enters the first hex of the push.
 
 **Heaving Swing (X, top) - Would a flying enemy also destroy the obstacle and take damage?** Yes. This doesn't exclude flying enemies from the effect.
@@ -636,6 +638,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 **Sentient Growth (2, top) - Can I use this just to heal allies without attacking?** No; a red hex attack ability must be performed, in order to perform any subsequent abilities referencing the attack pattern.
 
 **Clear the Way (3, top) - Can I just use this to relocate an obstacle, without making an attack?** Yes, if you relocate it to a hex that is not adjacent to any enemies. However, if you move the obstacle adjacent to one or more enemies, you must attack one or more of them due to the 'voluntary ability' rule in GH2e.
+
+**Brutal Momentum (7, top) - What is meant by "hex containing a wall?** It should be read as "wall" or - if you prefer - "hex which you can't access due to a wall". It includes only full-hex walls, part-hex walls, and wall lines.
 
 **Brutal Momentum (7, bot) - Do I get both the Move 3 and the attack bonus at the start of my next four turns, or just the move?** You get both at the start of your next four turns.
 
@@ -1150,6 +1154,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2026-09-20 - Added Return to Top navigation buttons on all major and some minor dividers.
 - 2026-10-05 - Added definiton of "closeness" to 5.5. Added clarification for Scenario 8.
 - 2026-10-12 - Circles Level 5 card additional clarification.
+- 2026-11-03 - Cragheart clarifications especially around Brutal Momentum (7)
 
 [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/gloomhaven2e-faq/#top)
 
