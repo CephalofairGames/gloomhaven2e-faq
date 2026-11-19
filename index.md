@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN (2025) or SECOND EDITION**
 
-*Last Updated 2026-11-03*
+*Last Updated 2026-11-17*
 
 **READ THIS FIRST:** Preparation is the first step on the path to victory. Your wisdom in coming here before making a post on Reddit or BGG indicates a formidable destiny as a mercenary. 
 **Gain Item 116, Fated Verses** (your party may only gain this by referencing the FAQ once). 
@@ -128,17 +128,21 @@ Most of these questions were asked by the community. If you have a question that
 
 **Scenario 8** Scenario Goals should read, <span class="hidden">"The scenario is complete when the Bandit Commander and all revealed enemies are dead"</span>
 
-**Scenario 35, conclusion** <span class="hidden">The conclusion should also lock out Scenario 31, in addition to Scenarios 33 and 34.</span>
-
 **Scenario 56, page 69, Special Rules** <span class="hidden">The Gloom treats all Null/x0 cards as +0, not as Null/x0. The Gloom's Boss Specials 1 and 2 should say "a viable attack hex" instead of "an empty hex," choosing a non-negative hex when possible.</span>
 
 **Scenario 62** The map layout has Tile 06 with only slots and no tabs. The flat side should be laid adjacent to the other tiles, with the tab side facing out.
 
-**Section 10.1 (Merchant conclusion to Scenario 27)** This should add Event R-37, in addition to Event R-38.
+**Section 10.1 (Merchant conclusion to Scenario 27)** <span class="hidden">Add Scenarios 23 and 26 to the list of locked-out scenarios. This should add Event R-37, in addition to Event R-38.</span> 
 
 **Section 21.1 (Personal Quest 22)** The conclusion section should tell you to open the Two Minis class envelope (to match the Personal Quest card), not the Angry Face class envelope.
 
+**Section 40.6 (Scenario 35 Conclusion)** <span class="hidden">The conclusion should also lock out Scenario 31, in addition to Scenarios 33 and 34.</span>
+
 **Section 47.4 (Personal Quest 17)** The conclusion section should tell you to open the Lightning Bolt class envelope (to match the Personal Quest card), not the Two Minis class envelope.
+
+**Section 50.2 (Military conclustion to Scenario 27)** <span class="hidden">Add Scenarios 24 and 26 to the list of locked-out scenarios.</span>
+
+**Section 57.3 (Scenario 23 Conclusion)** <span class="hidden">Add Scenario 24 to the list of locked-out scenarios.</span>
 
 **Section 67.2 (Personal Quest 19)** The conclusion section should tell you to open the Angry Face class envelope (to match the Personal Quest card), not the Bolt class envelope.
 
@@ -403,7 +407,9 @@ Examples:
 
 **I have a Grant (or Control) ability with an elemental consumption. Who consumes this element? The Granter or the target of the Grant?** The granting figure performs any elemental consumptions, and gains earned XP from it (if any). If one Grant ability grants abilities to more than one target, all of them will benefit from one elemental consumption. The target of the Grant still performs any granted abilities like normal, including new abilities enabled by the elemental consumption. For example, Mindthief's Brain Leech (3, top) will add Wound to the controlled enemy's attack, if Ice is consumed. The Mindthief gets the XP from this consumption.
 
-**Which elemental infusions are mandatory? Can any be skipped?** If an elemental infusion is not in a mandatory (!) box, it can be skipped. 
+**Which elemental infusions are mandatory? Can any be skipped?** If an elemental infusion is not in a mandatory (!) box, it can be skipped.
+
+**I have an ability that is triggered when I open a door. Does this include opening doors via pressure plates or other scenario-specific means?** Yes.
 
 ![divider-narrow](/assets/images/divider2.png) [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/gloomhaven2e-faq/#top)
 
@@ -519,11 +525,17 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **Scenario 19** The monster counts in the second room are correct, and are not an error.
 
+**Scenario 23, Section 57.3 Errata** <span class="hidden">Add Scenario 24 to the list of locked-out scenarios.</span>
+
 **Scenario 26 Errata** Monsters on tiles 2-D and 10-B should not be set up at the start of the scenario, with the exception of the City Archers located adjacent to the wall section overlays.
 
-**Scenario 27, Section 10.1 Errata** <span class="hidden">This should add Event R-37 in addition to R-38.</span>
+**Scenario 27, Section 10.1 Errata** <span class="hidden">Add Scenarios 23 and 26 to the list of locked-out scenarios. This should add Event R-37 in addition to R-38.</span>
+
+**Scenario 27, Section 50.2 Errata** <span class="hidden">Add Scenarios 24 and 26 to the list of locked-out scenarios.</span>
 
 **Scenario 29** <span class="hidden">If a flying figure is occupying a perch, the Drake cannot move to it. It will still move to whichever (legal) perch gets it the most enemies, however.</span>
+
+**Scenario 35, Section 40.6 Errata** <span class="hidden">The conclusion should also lock out Scenario 31, in addition to Scenarios 33 and 34.</span>
 
 **Scenario 44** <span class="hidden">The effects of the Elemental Tethers apply to any Demons from the beginning of the scenario until destroyed.</span>
 
@@ -1155,6 +1167,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2026-10-05 - Added definiton of "closeness" to 5.5. Added clarification for Scenario 8.
 - 2026-10-12 - Circles Level 5 card additional clarification.
 - 2026-11-03 - Cragheart clarifications especially around Brutal Momentum (7)
+- 2026-11-18 - Added clarification on door opening. Added additional scenario lockout errata to Scenarios 23 and 27. Rearranged some errata for consistency (sorting by section number for the errata section, and by scenario in the scenario section.)
 
 [![Return to Top](/assets/images/top.png)](https://cephalofairgames.github.io/gloomhaven2e-faq/#top)
 
